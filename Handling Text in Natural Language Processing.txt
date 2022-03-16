@@ -1,0 +1,11 @@
+Handling Text in Natural Language Processing
+
+Given a set of email threads from 39 individual. 
+Need to extract only sentences from the text and list out them one by one.
+
+Java code for removing tags <> in the email text.
+List out the sentences in the given thread and save the file as ‘threadSentence1.txt’. 
+Iterate the method to all 39 emails and save them. 
+Break each sentence in ‘threadSentence1.txt’ file into a set of words and list out them. 
+Save the word list as ‘threadWords1.txt’. 
+Iterate the above method to all 39 email threads and save them.
