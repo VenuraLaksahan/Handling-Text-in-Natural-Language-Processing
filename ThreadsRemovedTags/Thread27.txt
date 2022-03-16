@@ -1,0 +1,87 @@
+  
+    Re: A poll for screen reader users
+    075-16233750
+    
+      Wed Mar 01 20:52:09 -0800 2000
+      Scott Luebking &lt;phoenixl@netcom.com&gt;
+      w3c-wai-ig@w3.org
+      Re: A poll for screen reader users
+      
+        Hi, So far, about 24 screen reader users have sent in votes. 
+        One person didn't like the screen reader version because of the long links. 
+        What he didn't realize was that the links were the same for both versions. 
+        He just hadn't run into them in the standard version before trying the version for screen reader users. 
+        Two other users forgot to make a choice. 
+        The remaining 21 users preferred the version formatted for screen readers over the standard version. 
+        A couple of people commented that they would want some more text on the screen reader version. 
+      
+    
+    
+      Sat Mar 04 11:00:17 -0800 2000
+      Michael Burks &lt;mburks952@worldnet.att.net&gt;
+      &lt;w3c-wai-ig@w3.org&gt;
+      An interesting Concept
+      
+        All, has anyone heard of www.esight.org? 
+        I looked at their site is it accessible? 
+        I don t know much about cold fusion sites so I can t tell. 
+      
+    
+    
+      Sat Mar 04 19:01:15 -0800 2000
+      Patrick Burke &lt;burke@ucla.edu&gt;
+      Michael Burks &lt;mburks952@worldnet.att.net&gt;
+      w3c-wai-ig@w3.org
+      Re: An interesting Concept
+      
+        All I get are the &amp;quot;notify&amp;quot; and &amp;quot;beta tester&amp;quot; links, which lead to forms to fill in the needed information. 
+        (These work as they should.) 
+        No word on what the site will actually do. 
+        Sounds like a lot of E-hype to me. 
+        &amp;gt; All, has anyone heard of www.esight.org? 
+        &amp;gt; I looked at their site is it accessible? 
+        &amp;gt; I don t know much about cold fusion sites so I can t tell. 
+      
+    
+    
+      Sat Mar 04 19:11:32 -0800 2000
+      Michael Burks &lt;mburks952@worldnet.att.net&gt;
+      "Patrick Burke" &lt;burke@ucla.edu&gt;
+      &lt;w3c-wai-ig@w3.org&gt;
+      RE: An interesting Concept
+      
+        My quesiton is how would a screen reader handle that code....
+        look at the source. 
+        &amp;gt; All I get are the &amp;quot;notify&amp;quot; and &amp;quot;beta tester&amp;quot; links, which lead to forms to fill in the needed information. 
+        &amp;gt; (These work as they should.) 
+        &amp;gt; No word on what the site will actually do. 
+        &amp;gt; Sounds like a lot of E-hype to me. 
+        &amp;gt;&amp;gt; All, has anyone heard of www.esight.org? 
+        &amp;gt;&amp;gt; I looked at their site is it accessible? 
+        &amp;gt;&amp;gt; I don t know much about cold fusion sites so I can t tell. 
+      
+    
+    
+      Sat Mar 04 19:41:03 -0800 2000
+      Patrick Burke &lt;burke@ucla.edu&gt;
+      Michael Burks &lt;mburks952@worldnet.att.net&gt;
+      w3c-wai-ig@w3.org
+      RE: An interesting Concept
+      
+        I don't get any unusual code (other than the CFM declaration at the top). 
+        Otherwise it looks pretty normal, &amp;amp;amp; reads just fine with JFW3.5. 
+        A few small problems such as ALT text &amp;quot;pages\cleardot1.gif&amp;quot; (approx.), but nothing really unusual. 
+        Unless there is some CFM-generated applet thing happening that I'm missing completely. 
+        &amp;gt; My quesiton is how would a screen reader handle that code....
+        &amp;gt; look at the source. 
+        &amp;gt;&amp;gt; All I get are the &amp;quot;notify&amp;quot; and &amp;quot;beta tester&amp;quot; links, which lead to forms to fill in the needed information. 
+        &amp;gt;&amp;gt; (These work as they should.) 
+        &amp;gt;&amp;gt; No word on what the site will actually do. 
+        &amp;gt;&amp;gt; Sounds like a lot of E-hype to me. 
+        &amp;gt;&amp;gt;&amp;gt; All, has anyone heard of www.esight.org? 
+        &amp;gt;&amp;gt;&amp;gt; I looked at their site is it accessible? 
+        &amp;gt;&amp;gt;&amp;gt; I don t know much about cold fusion sites so I can t tell. 
+      
+    
+  
+

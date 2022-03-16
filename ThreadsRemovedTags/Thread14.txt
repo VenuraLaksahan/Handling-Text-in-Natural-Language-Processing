@@ -1,0 +1,121 @@
+  
+    Non-geek version of guidelines
+    061-10140940
+    
+      Mon Feb 21 15:37:58 -0800 2000
+      Alan Cantor &lt;acantor@interlog.com&gt;
+      "Education and Outreach Working Group" &lt;w3c-wai-eo@w3.org&gt;
+      Non-geek version of guidelines
+      
+        Hello Education and Outreach Colleagues, I was talking to a friend today -- an amateur web developer and professional disability rights advocate -- who complained that the W3C guidelines are overly technical for her needs. 
+        She wants a plain language version of the guidelines. 
+        As she is fairly technologically savvy, she expressed frustration at having to work so hard to understand what must be done to make accessible web pages. 
+        To illustrate her point, she read me the Quick Tip card description of Image map. 
+        I agree with her, the tone is definitely geeky. 
+        But not everyone who develops web pages speaks the language of client-side servers and hotspots. 
+        I would guess that most people who develop web pages are amateurs (in the original sense of the word: from amore or amour: an activity done out of love.) 
+        Will these people freeze when they read &amp;quot;make line by line reading sensible?&amp;quot; or &amp;quot;Use CSS?&amp;quot; 
+        How about we create a &amp;quot;user-friendly&amp;quot; version of the Web Content guidelines? 
+        Maybe a primer. 
+      
+    
+    
+      Mon Feb 21 16:30:26 -0800 2000
+      Robert Neff &lt;robneff@home.com&gt;
+      "Education and Outreach Working Group" &lt;w3c-wai-eo@w3.org&gt;
+      Re: Non-geek version of guidelines
+      
+        you are not the first to ask about this...
+        this si a part of obtaining buy-in from the user community so implementation will go easier. 
+        Remember my comments from toronto last year, &amp;quot;create a wcag for dummies&amp;quot; version.... 
+        hey, are there going to be EO, WAI and WCAG meetings at the www9? 
+        &amp;gt; Hello Education and Outreach Colleagues, I was talking to a friend today -- an amateur web developer and professional disability rights advocate -- who complained that the W3C guidelines are overly technical for her needs. 
+        &amp;gt; She wants a plain language version of the guidelines. 
+        &amp;gt; As she is fairly technologically savvy, she expressed frustration at having to work so hard to understand what must be done to make accessible web pages. 
+        &amp;gt; To illustrate her point, she read me the Quick Tip card description of Image map. 
+        &amp;gt; I agree with her, the tone is definitely geeky. 
+        &amp;gt; But not everyone who develops web pages speaks the language of client-side servers and hotspots. 
+        &amp;gt; I would guess that most people who develop web pages are amateurs (in the original sense of the word: from amore or amour: an activity done out of love.) 
+        &amp;gt; Will these people freeze when they read &amp;quot;make line by line reading sensible?&amp;quot; or &amp;quot;Use CSS?&amp;quot; 
+        &amp;gt; How about we create a &amp;quot;user-friendly&amp;quot; version of the Web Content guidelines? 
+        &amp;gt; Maybe a primer. 
+      
+    
+    
+      Tue Feb 22 07:59:56 -0800 2000
+      William Loughborough &lt;love26@gorge.net&gt;
+      Alan Cantor &lt;acantor@interlog.com&gt;
+      Re: Non-geek version of guidelines
+      
+        &amp;gt; How about we create a &amp;quot;user-friendly&amp;quot; version of the Web Content guidelines? 
+        &amp;gt; Maybe a primer. 
+        WL: Great idea. 
+        Would you take that as an action item? 
+      
+    
+    
+      Tue Feb 22 15:50:47 -0800 2000
+      Chuck Letourneau &lt;cpl@starlingweb.com&gt;
+      "Alan Cantor" &lt;acantor@interlog.com&gt;
+      w3c-wai-eo@w3.org
+      Re: Non-geek version of guidelines
+      
+        What about the WCAG Curriculum? 
+        Particularly the Example Set of the WCAG Curriculum? 
+        Curriculum: http://www.starlingweb.com/wai/wcag/ 
+        Example set: http://www.starlingweb.com/wai/wcag/sam1-0.htm 
+        Please note that the curriculum will be moving to W3C space in the next week or so. 
+        Don't bookmark pages in the above site as they will soon be invalid. 
+        Once the curriculum is in the W3C space, WAI EO will likely start promoting it more heavily. 
+        &amp;gt; Hello Education and Outreach Colleagues, I was talking to a friend today -- an amateur web developer and professional disability rights advocate -- who complained that the W3C guidelines are overly technical for her needs. 
+        &amp;gt; She wants a plain language version of the guidelines. 
+        &amp;gt; As she is fairly technologically savvy, she expressed frustration at having to work so hard to understand what must be done to make accessible web pages. 
+        &amp;gt; To illustrate her point, she read me the Quick Tip card description of Image map. 
+        &amp;gt; I agree with her, the tone is definitely geeky. 
+        &amp;gt; But not everyone who develops web pages speaks the language of client-side servers and hotspots. 
+        &amp;gt; I would guess that most people who develop web pages are amateurs (in the original sense of the word: from amore or amour: an activity done out of love.) 
+        &amp;gt; Will these people freeze when they read &amp;quot;make line by line reading sensible?&amp;quot; or &amp;quot;Use CSS?&amp;quot; 
+        &amp;gt; How about we create a &amp;quot;user-friendly&amp;quot; version of the Web Content guidelines? 
+        &amp;gt; Maybe a primer. 
+      
+    
+    
+      Wed Feb 23 03:59:31 -0800 2000
+      Jonathan Chetwynd &lt;jay@peepo.com&gt;
+      &lt;love26@gorge.net&gt; ,"Alan Cantor" &lt;acantor@interlog.com&gt;
+      "Education and Outreach Working Group" &lt;w3c-wai-eo@w3.org&gt;
+      Re: Non-geek version of guidelines
+      
+        Please take a look at www.peepo.com/access for a first small attempt at this. 
+        If you are prepared to create something else, please try to use good examples rather than text. 
+        (as in QED) and post the URI so we can take a look. 
+        &amp;gt;&amp;gt; How about we create a &amp;quot;user-friendly&amp;quot; version of the Web Content guidelines? 
+        &amp;gt;&amp;gt; Maybe a primer. 
+        &amp;gt; WL: Great idea. 
+        &amp;gt; Would you take that as an action item? 
+      
+    
+    
+      Thu Mar 02 23:23:19 -0800 2000
+      Judy Brewer &lt;jbrewer@w3.org&gt;
+      "Jonathan Chetwynd" &lt;jay@peepo.com&gt; , &lt;love26@gorge.net&gt; ,"Alan Cantor" &lt;acantor@interlog.com&gt;
+      "Education and Outreach Working Group" &lt;w3c-wai-eo@w3.org&gt;
+      Re: Non-geek version of guidelines
+      
+        Got a &amp;quot;could not connect to remote server&amp;quot; from both links at http://www.peepo.com/access 
+        &amp;gt; Please take a look at www.peepo.com/access for a first small attempt at this. 
+        &amp;gt; If you are prepared to create something else, please try to use good examples rather than text. 
+        &amp;gt; (as in QED) and post the URI so we can take a look. 
+        &amp;gt;&amp;gt;&amp;gt; How about we create a &amp;quot;user-friendly&amp;quot; version of the Web Content guidelines? 
+        &amp;gt;&amp;gt;&amp;gt; Maybe a primer. 
+        &amp;gt;&amp;gt; WL: Great idea. 
+        &amp;gt;&amp;gt; Would you take that as an action item? 
+      
+    
+  
+  
+  
+Issue id = 1 (Need for more User friendly guidelines)
+Issue id = 2 (Need for more User friendly WCAG)
+Issue id = 3 (www9 conference)
+Issue id = 4 (Broken links)

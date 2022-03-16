@@ -1,0 +1,132 @@
+  
+    color choice overrides
+    094-2808305
+    
+      Sat Aug 14 18:21:37 -0700 1999
+      John Russell &lt;VE3LL@RAC.CA&gt;
+      www-amaya@w3.org
+      color choice overrides
+      
+        Many web authors make poor colour choices. 
+
+        Some of these make pages unreadable to colour-impaired viewers. 
+        Several browsers allow an override setting to be configured by the viewer. 
+        DOES AMAYA ALLOW THE VIEWER TO OVERRIDE SETTING MADE INSIDE THE HTML DOCUMENTS 
+
+        Being slightly blue/green impaired myself, I view this as an important accessibility feature that all browsers, including Amaya should include. 
+
+      
+    
+    
+      Mon Aug 16 03:02:09 -0700 1999
+      Irene.Vatton@inrialpes.fr &lt;Irene.Vatton@inrialpes.fr&gt;
+      "John Russell" &lt;VE3LL@RAC.CA&gt;
+      Re: color choice overrides
+      
+        &gt; Many web authors make poor colour choices. 
+
+        &gt; Some of these make pages unreadable to colour-impaired viewers. 
+        &gt; Several browsers allow an override setting to be configured by the viewer. 
+        &gt; DOES AMAYA ALLOW THE VIEWER TO OVERRIDE SETTING MADE INSIDE THE HTML DOCUMENTS 
+
+        Not exactly, but Amaya is an editor and you can easily change or remove the background/foreground color. 
+
+        &gt; Being slightly blue/green impaired myself, I view this as an important accessibility feature that all browsers, including Amaya should include. 
+
+      
+    
+    
+      Mon Aug 16 10:00:10 -0700 1999
+      Charles McCathieNevile &lt;charles@w3.org&gt;
+      Irene.Vatton@inrialpes.fr
+      Re: color choice overrides
+      
+        John, you could create your own local stylesheet, and make !imprtant declarations for colours. 
+
+        &gt;&gt; Many web authors make poor colour choices. 
+
+        &gt;&gt; Some of these make pages unreadable to colour-impaired viewers. 
+        &gt;&gt; Several browsers allow an override setting to be configured by the viewer. 
+        &gt;&gt; DOES AMAYA ALLOW THE VIEWER TO OVERRIDE SETTING MADE INSIDE THE HTML DOCUMENTS 
+
+        &gt; Not exactly, but Amaya is an editor and you can easily change or remove the background/foreground color. 
+
+        &gt;&gt; Being slightly blue/green impaired myself, I view this as an important accessibility feature that all browsers, including Amaya should include. 
+
+      
+    
+    
+      Mon Aug 16 10:53:10 -0700 1999
+      Charles McCathieNevile &lt;charles@w3.org&gt;
+      John Russell &lt;VE3LL@RAC.CA&gt;
+      Re: color choice overrides
+      
+        charles' 5 line CSS tutorial... 
+
+        to give a style to an element you list the element (called a selector in technical CSS writing), then in curly brackets you put the style feature you want to declare, a colon, and the value you want for that property. 
+
+        example: 
+
+        BODY { font-size: 24pt } 
+
+        To set several properties at the same time, use a semi-colon between each declaration, inside the same set of curly brackets. 
+
+        example: 
+
+        H1 { font-size: 180% ; font-weight: bold ; line-height: 1.5em } 
+
+        To make your statements override the ones that an author uses, add !important after each property declaration 
+
+        example: 
+
+        P { font-size: 12pt !important ; line-height: 2em !important } 
+
+        NOTE: You should not do this in stylesheets that you publish, only your local stylesheet for reading, until the CSS2 cascade order is widely implemented. 
+
+        If your browser uses the CSS2 cascade order, this will be fine. 
+        If not, then an author who has published a style sheet with !important will override yours. (sigh) 
+
+        I don't know which cascade Amaya uses. 
+        It does allow you to disable any style sheet attached to a document, which is a handy feature. 
+
+        &gt;&gt; Many web authors make poor colour choices. 
+
+        &gt;&gt; Some of these make pages unreadable to colour-impaired viewers. 
+        &gt;&gt; Several browsers allow an override setting to be configured by the viewer. 
+        &gt;&gt; DOES AMAYA ALLOW THE VIEWER TO OVERRIDE SETTING MADE INSIDE THE HTML DOCUMENTS 
+
+        &gt;&gt; Being slightly blue/green impaired myself, I view this as an important accessibility feature that all browsers, including Amaya should include. 
+
+        &gt; Not exactly, but Amaya is an editor and you can easily change or remove the background/foreground color. 
+
+        &gt; you can use stylesheets 
+
+        I have used a stylesheet which works ok on my own editing at at my own site and on those where people are kind enough to let one choose for themself. 
+        Unfortunately once someone's site chooses a color you are stuck with it... 
+        I am suggesting that an override be provided as an ACCESSIBILITY issue. 
+        Amaya can lead the way on this as it does on several other issues such as MathML. 
+        Thanks for suggestion. 
+        It took a while to get amaya.css going as at first i thought it had to have tags ala html 
+        --- this worked on other browsers but not in amaya 
+        --- dropped any html tags and it worked like charm. 
+        I had better buy a better reference 
+      
+    
+    
+      Tue Aug 17 03:05:01 -0700 1999
+      Irene.Vatton@inrialpes.fr &lt;Irene.Vatton@inrialpes.fr&gt;
+      Charles McCathieNevile &lt;charles@w3.org&gt;
+      Re: color choice overrides
+      
+        &gt; If your browser uses the CSS2 cascade order, this will be fine. 
+        &gt; If not, then an author who has published a style sheet with !important will override yours. (sigh) 
+
+        &gt; I don't know which cascade Amaya uses. 
+        &gt; It does allow you to disable any style sheet attached to a document, which is a handy feature. 
+
+        Amaya doesn't take !important flag into account yet 
+
+      
+    
+  
+

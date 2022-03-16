@@ -1,0 +1,84 @@
+  
+    Mozilla 1.2 and keyboard to activate links?
+    078-15693133
+    
+      Fri Sep 27 13:33:57 -0700 2002
+      jonathan chetwynd &lt;j.chetwynd@btinternet.com&gt;
+      "WAI List \(E-mail\)" &lt;w3c-wai-ig@w3.org&gt;
+      Mozilla 1.2 and keyboard to activate links?
+      
+        Peepo has advocated for some years the use of the keyboard as means to select links. 
+        In the latest mozilla browser, when you type a letter, except in a text entry box, it cycles through links that have that letter in their text. 
+        it seems slightly buggy, but what do you think? 
+        (course it screws my coding right and proper) 
+      
+    
+    
+      Fri Sep 27 17:21:38 -0700 2002
+      iris &lt;iristopa@yahoo.com&gt;
+      w3c-wai-ig@w3.org
+      Re: Mozilla 1.2 and keyboard to activate links?
+      
+        &amp;gt; Peepo has advocated for some years the use of the keyboard as means to select links. 
+        &amp;gt; In the latest mozilla browser, when you type a letter, except in a text entry box, it cycles through links that have that letter in their text. 
+        &amp;gt; it seems slightly buggy, but what do you think? 
+        i found out about this only a few days ago and have been using the so-called 'typeaheadfind' since then quite a lot. 
+        i haven't found it buggy at all and absolutely love it. 
+        it's more a Find function then a 'cycling through links' function. 
+        with the focus on the page you just type a word (or beginning of it) and mozilla jumps to that word. 
+        F3 finds the next instance. 
+        it first only looks at links but if you type a '/' (slash) before the word it searches the whole text. 
+        it really just saves you bringing up that cumbersome Find dialogue box. 
+        i don't think it really works for cycling through links. 
+        the tab key works better for that. 
+      
+    
+    
+      Fri Sep 27 17:24:14 -0700 2002
+      iris &lt;iristopa@yahoo.com&gt;
+      w3c-wai-ig@w3.org
+      Re: Mozilla 1.2 and keyboard to activate links?
+      
+        &amp;gt; (course it screws my coding right and proper) 
+        how does it screw your coding? 
+      
+    
+    
+      Fri Sep 27 17:33:18 -0700 2002
+      Timothy J. Luoma &lt;lists@tntluoma.com&gt;
+      w3c-wai-ig@w3.org
+      Re: Mozilla 1.2 and keyboard to activate links?
+      
+        &amp;gt; i found out about this only a few days ago and have been using the so-called 'typeaheadfind' since then quite a lot. 
+        &amp;gt; i haven't found it buggy at all and absolutely love it. 
+        Indeed.... 
+        I have loved Opera's &amp;quot;inline find&amp;quot; for a long time. 
+        Sounds like Moz has copped another Opera feature ;-) 
+        &amp;gt; i don't think it really works for cycling through links. 
+        &amp;gt; the tab key works better for that. 
+        I still haven't found anything that matches Opera's CONTROL+J (which will list all links on the page). 
+        It also gives you a quick method to see if your links will make sense when read out of context. 
+      
+    
+    
+      Sat Sep 28 03:17:08 -0700 2002
+      jonathan chetwynd &lt;j.chetwynd@btinternet.com&gt;
+      &lt;lists@tntluoma.com&gt; , &lt;w3c-wai-ig@w3.org&gt;
+      Re: Mozilla 1.2 and keyboard to activate links?
+      
+        well those are some of the positives, how about disabling for those who are hyperactive, and just cannot stop fiddling with the keyboard? 
+        its buggy in the sense that for instance 'k' words aren't just those that start with the letter k but also those that include the letter k. 
+        I'd expect it to have a few others besides. 
+        &amp;gt;&amp;gt; i found out about this only a few days ago and have been using the so-called 'typeaheadfind' since then quite a lot. 
+        &amp;gt;&amp;gt; i haven't found it buggy at all and absolutely love it. 
+        &amp;gt; Indeed.... 
+        &amp;gt; I have loved Opera's &amp;quot;inline find&amp;quot; for a long time. 
+        &amp;gt; Sounds like Moz has copped another Opera feature ;-) 
+        &amp;gt;&amp;gt; i don't think it really works for cycling through links. 
+        &amp;gt;&amp;gt; the tab key works better for that. 
+        &amp;gt; I still haven't found anything that matches Opera's CONTROL+J (which will list all links on the page). 
+        &amp;gt; It also gives you a quick method to see if your links will make sense when read out of context. 
+      
+    
+  
+

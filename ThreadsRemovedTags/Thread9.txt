@@ -1,0 +1,97 @@
+  
+    Re: StarOffice/OpenOffice.org accessibility effort
+    059-15393869
+    
+      Sat Nov 17 18:50:44 -0800 2001
+      Charles McCathieNevile &lt;charles@w3.org&gt;
+      &lt;Peter.Korn@sun.com&gt;
+      Re: StarOffice/OpenOffice.org accessibility effort
+      
+        Peter, or other folks, Is there anyone from the OpenOffice or StarOffice projects who has time to represent the group on the W3C Authoring Tool Accessibility Guidelines working group, or to give us updates and feedback on how much those guidelines are implemented by the project? 
+
+        The Guidelines are designed to apply to all tools used to produce content for the Web 
+		
+        - both "HTML editors" and the range of other tools that people use to produce content, such as office productivity tools and media editing tools. 
+
+        More information at http://www.w3.org/WAI/AU and guidelines (W3C Recommendation since Feb 2000) at http://www.w3.org/TR/ATAG10 
+
+     
+    
+	
+    
+      Mon Nov 19 18:30:25 -0800 2001
+      Liddy Nevile &lt;liddy@motile.net&gt;
+      WAI AU Guidelines &lt;w3c-wai-au@w3.org&gt;
+      apologies &amp;ndash;&amp;ndash;
+      
+        I was all set up and ready to go but missed my alarm and the call.... 
+        sorry 
+
+        I wanted to discuss the possibility of a "summit" at www11 
+        - I think we have a full-day workshop on the tutorial workshop day but I wanted to check the agenda and format for that day. 
+        See next email. 
+
+      
+    
+    
+      Mon Nov 19 18:38:19 -0800 2001
+      Charles McCathieNevile &lt;charles@w3.org&gt;
+      Liddy Nevile &lt;liddy@motile.net&gt;
+      Re: apologies &amp;ndash;&amp;ndash;
+      
+        Me too, sorry folks. 
+        Was anyone on the call? 
+
+        &gt; I was all set up and ready to go but missed my alarm and the call.... 
+        &gt; sorry
+      
+    
+    
+      Tue Nov 20 09:37:49 -0800 2001
+      Jan Richards &lt;jan.richards@utoronto.ca&gt;
+      WAI AU Guidelines &lt;w3c-wai-au@w3.org&gt;
+      Re: apologies &amp;ndash;&amp;ndash;
+      
+        Sorry, I missed too. 
+        I slept in after flying in late. 
+
+        &gt; Me too, sorry folks. 
+        &gt; Was anyone on the call? 
+
+        &gt; I was all set up and ready to go but missed my alarm and the call.... 
+        &gt; sorry 
+
+      
+    
+    
+      Fri Nov 23 09:42:17 -0800 2001
+      Jutta Treviranus &lt;jutta.treviranus@utoronto.ca&gt;
+      Charles McCathieNevile &lt;charles@w3.org&gt; , Liddy Nevile &lt;liddy@motile.net&gt;
+      WAI AU Guidelines &lt;w3c-wai-au@w3.org&gt;
+      Re: apologies &amp;ndash;&amp;ndash;
+      
+        We did hold a short meeting with Phil and Heather on the call. 
+        The Summit was discussed. 
+        Heather will not be able to make it due to wedding plans, IBM will be there. 
+        Everyone thought it was a good opportunity to pull together the various efforts. 
+
+        &gt; Me too, sorry folks. 
+        &gt; Was anyone on the call? 
+
+        &gt; I was all set up and ready to go but missed my alarm and the call.... 
+        &gt; sorry
+      
+    
+    
+      Sat Nov 24 00:22:10 -0800 2001
+      Liddy Nevile &lt;liddy@motile.net&gt;
+      WAI AU Guidelines &lt;w3c-wai-au@w3.org&gt;
+      Re: WWW11 workshop
+      
+        I have submitted a request to hold this 
+        - if we are successful we can decide how to do it and we do not need to go through papers submission etc .... 
+
+      
+    
+  
+

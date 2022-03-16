@@ -1,0 +1,145 @@
+  
+    General Rule - Do not forbid - only guide except for safety
+    068-16207900
+    
+      Sun Mar 25 16:41:55 -0800 2001
+      Gregg Vanderheiden &lt;gv@trace
+wisc
+edu&gt;
+      "w3c-waI-gl@w3
+ org (E-mail)" &lt;w3c-waI-gl@w3
+org&gt;
+      General Rule - Do not forbid - only guide except for safety
+      
+        I am not sure this will hold but 
+        As a general rule
+
+
+
+ 
+        I think we should try to design guidelines that do not forbid anything - but 
+        rather tell people how to do things so that they will be accessible
+ 
+        When the next version comes out next week - we should look through it to see how it looks in this regard
+ 
+      
+    
+    
+      Sun Mar 25 21:51:17 -0800 2001
+      Kynn Bartlett &lt;kynn-edapta@idyllmtn
+com&gt;
+      &lt;gv@trace
+wisc
+edu&gt;
+      "w3c-waI-gl@w3
+ org (E-mail)" &lt;w3c-waI-gl@w3
+org&gt;
+      Re: General Rule - Do not forbid - only guide except for safety
+      
+        &amp;amp;gt; I am not sure this will hold but 
+        &amp;amp;gt; As a general rule
+
+
+
+ 
+        &amp;amp;gt; I think we should try to design guidelines that do not forbid anything - but 
+        &amp;amp;gt; rather tell people how to do things so that they will be accessible
+ 
+        I agree with this approach
+ Consistent with this approach, I feel, is a methodology of &amp;quot;guiding&amp;quot; which says &amp;quot;well, you -can- do it, but to do it right you have to do (x), (y), and (z), and that will still mean you're losing out on (a), (b), and (c), but if you REALLY REALLY WANT TO, hey, it's your choice
+&amp;quot; 
+        This isn't forbidding anything -- but it's making it clear that there are definite problems with certain approaches, and if someone chooses to follow that path, they at least will be aware of the consequences of their actions
+ 
+      
+    
+    
+      Mon Mar 26 00:19:22 -0800 2001
+      Jason White &lt;jasonw@ariel
+ucs
+unimelb
+edu
+au&gt;
+      Web Content Accessibility Guidelines &lt;w3c-wai-gl@w3
+org&gt;
+      Re: General Rule - Do not forbid - only guide except for safety
+      
+        I think even WCAG 1
+0 can be regarded as consistent with this method of specifying guidelines, in that the word &amp;quot;avoid&amp;quot; was deliberately chosen to imply the existence of alternative, more accessible, means of achieving the same objective
+ 
+        WCAG 2
+0 should, however, make this point clearer, to avoid (pun intended) giving the impression that there are prohibitions in the guidelines that would limit the capacity of content creators to design web sites that fulfill their respective purposes
+      
+    
+    
+      Mon Mar 26 20:03:39 -0800 2001
+      Anne Pemberton &lt;apembert@erols
+com&gt;
+      &lt;gv@trace
+wisc
+edu&gt; ,"w3c-waI-gl@w3
+ org (E-mail)" &lt;w3c-waI-gl@w3
+org&gt;
+      Re: General Rule - Do not forbid - only guide except for safety
+      
+        Gregg, You make an excellent point! 
+        As soon as you &amp;quot;forbid&amp;quot; something, you find out that some disabled group at an opposite end of some spectrum &amp;quot;needs&amp;quot; what you've forbidden 
+		We need to explain the consequences, and let the author decide what is most appropriate for his/her site
+ 
+        &amp;amp;gt; I am not sure this will hold but 
+        &amp;amp;gt; As a general rule
+
+
+
+ 
+        &amp;amp;gt; I think we should try to design guidelines that do not forbid anything - but 
+        &amp;amp;gt; rather tell people how to do things so that they will be accessible
+ 
+        &amp;amp;gt; When the next version comes out next week - we should look through it to see how it looks in this regard
+ 
+      
+    
+    
+      Mon Mar 26 23:37:08 -0800 2001
+      Kynn Bartlett &lt;kynn-edapta@idyllmtn
+com&gt;
+      Anne Pemberton &lt;apembert@erols
+com&gt; , &lt;gv@trace
+wisc
+edu&gt; ,"w3c-waI-gl@w3
+ org (E-mail)" &lt;w3c-waI-gl@w3
+org&gt;
+      Re: General Rule - Do not forbid - only guide except for safety
+      
+        &amp;amp;gt; Gregg, You make an excellent point! 
+        &amp;amp;gt; As soon as you &amp;quot;forbid&amp;quot; something, you find out that some disabled group at an opposite end of some spectrum &amp;quot;needs&amp;quot; what you've forbidden 
+        &amp;amp;gt; We need to explain the consequences, and let the author decide what is most appropriate for his/her site
+ 
+        Excellent point -- the body of knowledge for disability access considerations, beyond those of blind people (which are generally well-explored these days), is pretty skimpy
+ 
+		We're -still- in the exploration/discovery process of &amp;quot;what works&amp;quot;, and as we see more solutions like Reef's -- which allow you to build an interface for ONE audience without fearing interference with OTHER audiences' interfaces -- we will encounter more and more solutions which will work for some people and not work for others
+ 
+        Forbidding them outright will cause a lot of problems, in the same way that alternate interfaces stated &amp;quot;as a last resort&amp;quot; cause problems when usable, accessible design is your &amp;quot;first resort&amp;quot;! 
+        Absolutes should be avoided, always
+ 
+      
+    
+    
+      Tue Mar 27 12:03:35 -0800 2001
+      William Loughborough &lt;love26@gorge
+net&gt;
+      Kynn Bartlett &lt;kynn-edapta@idyllmtn
+com&gt; , Anne Pemberton &lt;apembert@erols
+com&gt; , &lt;gv@trace
+wisc
+edu&gt; ,"w3c-waI-gl@w3
+ org (E-mail)" &lt;w3c-waI-gl@w3
+org&gt;
+      Re: General Rule - Do not forbid - only guide except for safety
+      
+        &amp;amp;gt; Absolutes should be avoided, always
+ 
+        Absolutely! 
+      
+    
+  
+

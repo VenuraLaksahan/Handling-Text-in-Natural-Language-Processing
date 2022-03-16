@@ -1,0 +1,104 @@
+  
+    WCAG Conference call TODAY
+    066-15270802
+    
+      Thu Nov 25 14:01:05 -0800 1999
+      Chuck Letourneau &lt;cpl@starlingweb.com&gt;
+      w3c-wai-gl@w3.org
+      WCAG Conference call TODAY
+      
+        Just a reminder: 
+        we are holding a conference call today in spite of the fact that it is a holiday (Thanksgiving) in the US. 
+        I don't know if any of our editors will be on the call, so I suggest we use the time to discuss Wendy's draft charter. 
+        It can be found at: http://www.w3.org/WAI/GL/new-charter-2000.html 
+
+        Attendance at today's meeting is optional for our American colleagues. 
+        If you have to choose between turkey and talking, I will understand if you opt for the food. 
+
+      
+    
+    
+      Thu Nov 25 14:13:56 -0800 1999
+      Robert Neff &lt;robneff@home.com&gt;
+      &lt;w3c-wai-gl@w3.org&gt;
+      Re: WCAG Conference call TODAY
+      
+        at least i can type with my mouth full !!! 
+
+        by the way, does anyone have any comments or suggestions on the Case Study we submitted on how to make Macromedia accessible? 
+        Would like to modify the 50 State Quarter Interactive Map at www1.usmint.gov. 
+        We are also making more of these for other products and one is in development now. 
+
+        Comments? 
+
+        &gt; Just a reminder: 
+        &gt; we are holding a conference call today in spite of the fact that it is a holiday (Thanksgiving) in the US. 
+        &gt; I don't know if any of our editors will be on the call, so I suggest we use the time to discuss Wendy's draft charter. 
+        &gt; It can be found at: http://www.w3.org/WAI/GL/new-charter-2000.html 
+
+        &gt; Attendance at today's meeting is optional for our American colleagues. 
+        &gt; If you have to choose between turkey and talking, I will understand if you opt for the food. 
+
+      
+    
+    
+      Fri Nov 26 12:12:19 -0800 1999
+      jonathan chetwynd &lt;jay@peepo.com&gt;
+      w3c-wai-gl@w3.org
+      Re: WCAG Conference call TODAY
+      
+        could you please be sure to always include the telephone number and times in these communications please. 
+
+        I have great difficulty in being available due to teaching duties. 
+
+      
+    
+    
+      Sat Nov 27 01:21:31 -0800 1999
+      Gregory J. Rosmaita &lt;unagi69@concentric.net&gt;
+      Web Content Accessiblity Guidelines Mailing List &lt;w3c-wai-gl@w3.org&gt;
+      Re: WCAG Conference call TODAY
+      
+        aloha! in addition to including the phone number and time of the call in meeting announcements, could you please email the reminders the day _BEFORE_ the meeting, as it does me little good if i receive a reminder for a meeting shortly before the meeting begins, especially if that is a day where i could spare an hour or so for a telecon, but don't want to get sucked into answering all of my accumulated email! 
+
+      
+    
+    
+      Sat Nov 27 03:20:00 -0800 1999
+      jonathan chetwynd &lt;jay@peepo.com&gt;
+      w3c-wai-gl@w3.org,"Gregory J. Rosmaita" &lt;unagi69@concentric.net&gt; , Web Content Accessiblity Guidelines Mailing List &lt;w3c-wai-gl@w3.org&gt;
+      Re: WCAG Conference call TODAY
+      
+        &gt; aloha! in addition to including the phone number and time of the call in meeting announcements, could you please email the reminders the day _BEFORE_ the meeting, as it does me little good if i receive a reminder for a meeting shortly before the meeting begins, especially if that is a day where i could spare an hour or so for a telecon, but don't want to get sucked into answering all of my accumulated email! 
+
+        seconded 
+
+      
+    
+    
+      Sat Nov 27 10:38:26 -0800 1999
+      jon gunderson &lt;jongund@ux1.cso.uiuc.edu&gt;
+      jonathan chetwynd &lt;jay@peepo.com&gt;
+      Re: WCAG Conference call TODAY
+      
+        I beleive WAI and assume W3C policy is that meeting announcements, including an agenda should be posted to the list at least 24 hours prior to a telecon meeting. 
+        I have tried to adhere to this policy in the UA working group and I think it has help keep people interested in the participating in the telecons. 
+
+        &gt;&gt; aloha! in addition to including the phone number and time of the call in meeting announcements, could you please email the reminders the day _BEFORE_ the meeting, as it does me little good if i receive a reminder for a meeting shortly before the meeting begins, especially if that is a day where i could spare an hour or so for a telecon, but don't want to get sucked into answering all of my accumulated email! 
+
+        &gt; seconded 
+
+      
+    
+    
+      Fri Dec 03 15:11:51 -0800 1999
+      Jonathan Chetwynd &lt;j@peepo.com&gt;
+      w3c-wai-gl@w3.org
+      Re: WCAG Conference call TODAY
+      
+        tnx 
+		
+      
+    
+  
+

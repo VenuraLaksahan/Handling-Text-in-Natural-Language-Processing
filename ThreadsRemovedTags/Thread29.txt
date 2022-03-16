@@ -1,0 +1,82 @@
+  
+    Text unavailable to sighted users but available to screen reader users
+    077-4500595
+    
+      Tue Mar 06 16:52:52 -0800 2001
+      Graham Oliver &lt;graham_oliver@yahoo.com&gt;
+      w3c-wai-ig@w3.org
+      Text unavailable to sighted users but available to screen reader users
+      
+        I have built a form which has a submit button on it. 
+        If the user activates the button and hasn't filled out the form correctly, a javascript 'alert' pop-up is presented to the user, giving more information. 
+        This appears to be in breach of checkpoint 10.1 
+        Would it be acceptable to provide a warning message, something like 'Submitting this form may result in a pop-up dialog being displayed' before the submit button, in the same color as the background? 
+        Thus (I believe) making the text available to screen reader users but not to sighted users? 
+      
+    
+    
+      Wed Mar 07 18:54:21 -0800 2001
+      David Woolley &lt;david@djwhome.demon.co.uk&gt;
+      w3c-wai-ig@w3.org
+      Re: Text unavailable to sighted users but available to screen reader users
+      
+        &amp;gt; I have built a form which has a submit button on it. 
+        &amp;gt; If the user activates the button and hasn't filled out the form correctly, a javascript 'alert' pop-up is presented to the user, giving more information. 
+        &amp;gt; This appears to be in breach of checkpoint 10.1 
+        &amp;gt; Would it be acceptable to provide a warning message, something like 'Submitting this form may result in a pop-up dialog being displayed' before the submit button, in the same color as the background? 
+        &amp;gt; Thus (I believe) making the text available to screen reader users but not to sighted users? 
+        This will show up on any device that cannot display colours or doesn't understand the styling used to set the colours. 
+        It is a known trick for stuffing keywords for search engines and may result in the site being boycotted by major search engines. 
+        One is expecting a major change in content when one submits a form, so one of the main reasons for avoiding popups doesn't apply.
+      
+    
+    
+      Thu Mar 08 06:05:33 -0800 2001
+      Charles McCathieNevile &lt;charles@w3.org&gt;
+      David Woolley &lt;david@djwhome.demon.co.uk&gt;
+      Re: Text unavailable to sighted users but available to screen reader users
+      
+        It also depends on how the screen reader gets its content - 
+        readers that are too smart about colours (a useful feature) will realise that the text is invisible and skip it. 
+        given the way this is normally used to stuff keywords in pages, it is not a bad practice). 
+        &amp;gt;&amp;gt; I have built a form which has a submit button on it. 
+        &amp;gt;&amp;gt; If the user activates the button and hasn't filled out the form correctly, a javascript 'alert' pop-up is presented to the user, giving more information. 
+        &amp;gt;&amp;gt; This appears to be in breach of checkpoint 10.1 
+        &amp;gt;&amp;gt; Would it be acceptable to provide a warning message, something like 'Submitting this form may result in a pop-up dialog being displayed' before the submit button, in the same color as the background? 
+        &amp;gt;&amp;gt; Thus (I believe) making the text available to screen reader users but not to sighted users? 
+        &amp;gt; This will show up on any device that cannot display colours or doesn't understand the styling used to set the colours. 
+        &amp;gt; It is a known trick for stuffing keywords for search engines and may result in the site being boycotted by major search engines. 
+        &amp;gt; One is expecting a major change in content when one submits a form, so one of the main reasons for avoiding popups doesn't apply. 
+      
+    
+    
+      Fri Mar 09 02:53:13 -0800 2001
+      Anthony Quinn &lt;anthony@frontend.com&gt;
+      "David Woolley" &lt;david@djwhome.demon.co.uk&gt; , &lt;w3c-wai-ig@w3.org&gt;
+      RE: Text unavailable to sighted users but available to screen reader users
+      
+        Hi All, You could try using a spacer image and then put your message in the alt text. 
+        I don't know how that will behave in the screenreader but it may help get around the problem with the search engine. 
+        &amp;gt;&amp;gt; Would it be acceptable to provide a warning message, something like 'Submitting this form may result in a pop-up dialog being displayed' before the submit button, in the same color as the background? 
+        &amp;gt;&amp;gt; Thus (I believe) making the text available to screen reader users but not to sighted users? 
+        &amp;gt; This will show up on any device that cannot display colours or doesn't understand the styling used to set the colours. 
+        &amp;gt; It is a known trick for stuffing keywords for search engines and may result in the site being boycotted by major search engines. 
+        &amp;gt; One is expecting a major change in content when one submits a form, so one of the main reasons for avoiding popups doesn't apply.
+      
+    
+    
+      Fri Mar 09 05:10:39 -0800 2001
+      Jon Hanna &lt;jon@spinsol.com&gt;
+      &lt;w3c-wai-ig@w3.org&gt;
+      RE: Text unavailable to sighted users but available to screen reader users
+      
+        &amp;gt; Hi All, You could try using a spacer image and then put your message in the alt text. 
+        &amp;gt; I don't know how that will behave in the screenreader but it may help get around the problem with the search engine. 
+        Perhaps not, since putting spider-bait in alt attributes is just as old a search-engine as hiding stuff using colour. 
+        On the other hand there isn't really anyway I can think of for spiders to know whether they are being baited unless there is a lot of repetition of words other than &amp;quot;a&amp;quot;, &amp;quot;the&amp;quot;, etc. 
+        Spider-baiting in itself is quite a problem for users of text, whether sighted text-only users or users of enabling technologies. 
+        I've quite often come across sites with little for a text-only user to read but the keywords they want to be listed over repeated 50 times.
+      
+    
+  
+ 

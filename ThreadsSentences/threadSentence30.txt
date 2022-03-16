@@ -1,0 +1,127 @@
+  
+    Federal Credit Union Question ADA related
+    078-1321398
+    
+      Fri May 24 15:37:45 -0700 2002
+      Suzanne Nikolaisen &lt;nikolaisen@yahoo
+com&gt;
+      w3c-wai-ig@w3
+org
+      Federal Credit Union Question ADA related
+      
+        Could anyone give me a lead as far as a website to visit or a federal department to talk to about the accessbility of Federal Credit Union websites? 
+        Does 508 apply to the Federal Credit Unions? 
+        Is this written down anywhere? 
+      
+    
+    
+      Fri May 24 15:57:52 -0700 2002
+      Nissen, Dan E &lt;Dan
+Nissen@UNISYS
+com&gt;
+      w3c-wai-ig@w3
+org
+      RE: Federal Credit Union Question ADA related
+      
+        http://www
+pueblo
+gsa
+gov/cic_text/money/credit-unions/fedcredt
+htm describes what the Credit Unions are
+ 
+        I would doubt that these organizations, owned by their members, are covered by 508
+ 
+        &amp;gt; Could anyone give me a lead as far as a website to visit or a federal department to talk to about the accessbility of Federal Credit Union websites? 
+        &amp;gt; Does 508 apply to the Federal Credit Unions? 
+        &amp;gt; Is this written down anywhere? 
+      
+    
+    
+      Fri May 24 16:36:58 -0700 2002
+      John Foliot - bytown internet &lt;foliot@bytowninternet
+com&gt;
+      "Nissen, Dan E" &lt;Dan
+Nissen@UNISYS
+com&gt; , &lt;w3c-wai-ig@w3
+org&gt;
+      RE: Federal Credit Union Question ADA related
+      
+        Which of course is no reason to NOT make the sites accessible &amp;lt;grin&amp;gt; 
+        &amp;gt; http://www
+pueblo
+gsa
+gov/cic_text/money/credit-unions/fedcredt
+htm describes what the Credit Unions are
+ 
+        &amp;gt; I would doubt that these organizations, owned by their members, are covered by 508
+ 
+        &amp;gt;&amp;gt; Could anyone give me a lead as far as a website to visit or a federal department to talk to about the accessbility of Federal Credit Union websites? 
+        &amp;gt;&amp;gt; Does 508 apply to the Federal Credit Unions? 
+        &amp;gt;&amp;gt; Is this written down anywhere? 
+      
+    
+    
+      Fri May 24 16:40:08 -0700 2002
+      Demonpenta2@aol
+com &lt;Demonpenta2@aol
+com&gt;
+      w3c-wai-ig@w3
+org
+      Re: Federal Credit Union Question ADA related
+      
+        &amp;gt; Which of course is no reason to NOT make the sites accessible &amp;lt;grin&amp;gt; 
+        Well, they do have a semi-defense
+        they're kinda poor in day-to-day cash, I'd imagine
+ 
+      
+    
+    
+      Fri May 24 17:32:38 -0700 2002
+      David Poehlman &lt;poehlman1@comcast
+net&gt;
+      wai-ig list &lt;w3c-wai-ig@w3
+org&gt;
+      Fw: Federal Credit Union Question ADA related
+      
+        Federal Credit Unions are not federal agencies, they are owned by the members that form them
+ 
+        They are regulated, however
+ 
+        See http://www
+cuna
+org/data/consumer/whatis/whatisacu
+html and (when it's up) http://www
+ncua
+gov/ 
+        As far as I can see, a credit union doesn't fall under 508
+ 
+        &amp;gt;&amp;gt; Could anyone give me a lead as far as a website to visit or a federal department to talk to about the accessbility of Federal Credit Union websites? 
+        &amp;gt;&amp;gt; Does 508 apply to the Federal Credit Unions? 
+        &amp;gt;&amp;gt; Is this written down anywhere? 
+      
+    
+    
+      Fri May 24 17:43:29 -0700 2002
+      Access Systems &lt;accessys@smart
+net&gt;
+      David Poehlman &lt;poehlman1@comcast
+net&gt;
+      Re: Fw: Federal Credit Union Question ADA related
+      
+        &amp;gt; Federal Credit Unions are not federal agencies, they are owned by the members that form them
+ 
+        &amp;gt; They are regulated, however
+ 
+        &amp;gt; See http://www
+cuna
+org/data/consumer/whatis/whatisacu
+html and (when it's up) http://www
+ncua
+gov/ 
+        &amp;gt; As far as I can see, a credit union doesn't fall under 508
+ 
+        But they DO fall under ADA and that does require &amp;quot;equivalent facilitation&amp;quot; which could require usable web site and Section 508 serves as guidance 
+      
+    
+  
+

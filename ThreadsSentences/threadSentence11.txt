@@ -1,0 +1,124 @@
+  
+    RE: Meeting today - possible partial regrets
+    059-9045120
+    
+      Tue Oct 17 13:55:31 -0700 2000
+      Marjolein Katsma &lt;mkatsma@allaire
+com&gt;
+      WAI AU Guidelines &lt;w3c-wai-au@w3
+org&gt;
+      RE: Meeting today - possible partial regrets
+      
+        Don't know how long this meeting is going to take but with a joint meeting &amp;quot;long&amp;quot; seems more likely than &amp;quot;short&amp;quot;
+ 
+        So just in case: 
+        I have another (phone) meeting coming up at 3:30 Boston time (1 hour after this one) so if we haven't finished by then, I'll have leave early
+ 
+        Tried to move it but that was just not possible
+ 
+     
+    
+    
+      Tue Oct 17 14:27:41 -0700 2000
+      Jan Richards &lt;jan
+richards@utoronto
+ca&gt;
+      WAI AU Guidelines &lt;w3c-wai-au@w3
+org&gt;
+      Techniques draft with added structure
+      
+        Hi all, Sorry about the delay, but this is the Techniques draft that I said I would do at the face-to-face
+ 
+        It is not done but you will get the idea
+ 
+        Language specific things have generally been removed (to be put in the separate docs)
+ 
+      
+    
+    
+      Tue Oct 17 14:28:55 -0700 2000
+      Jan Richards &lt;jan
+richards@utoronto
+ca&gt;
+      WAI AU Guidelines &lt;w3c-wai-au@w3
+org&gt;
+      Techniques with added structure
+      
+        Hi all, Sorry I forgot to attach the file
+ 
+      
+    
+    
+      Wed Oct 18 12:57:44 -0700 2000
+      Charles McCathieNevile &lt;charles@w3
+org&gt;
+      Jan Richards &lt;jan
+richards@utoronto
+ca&gt;
+      Re: Techniques with added structure
+      
+        Jan, thanks for this 
+        - it's a good piece of work
+ 
+        How about we have the following categories: 
+        + Things you need to do to meet the checkpoint (these can be fairly general) 
+        + Techniques to do this (which should say how much of it they do) 
+        + Things which are good to do although they go beyond the requirements of the checkpoint
+ 
+        + References 
+        These probably need to be sorted (where applicable) by tool type and priority
+ 
+        For example to meet checkpoint 1
+1 in a level-A tool, all that needs to be done is to provide source editing (and meet checkpoint 1
+2 Preserve all accessibiltiy information, which can be done by not messing up the source)
+ 
+        But for a WYSIWYG tool this will not conform to 5
+1 and 5
+2, so the tool cannot get to double-A
+ 
+        A source editing tool can use this technique to any level
+ 
+        &amp;gt; Hi all, Sorry I forgot to attach the file
+ 
+      
+    
+    
+      Wed Oct 18 13:51:00 -0700 2000
+      Jan Richards &lt;jan
+richards@utoronto
+ca&gt;
+      Charles McCathieNevile &lt;charles@w3
+org&gt;
+      Re: Techniques with added structure
+      
+        I agree
+ 
+        I'd really like to work on emphasizing cross-over situations in which doing one thing contributes to meeting several guidelines
+ 
+        In the end this could be pulled out into a separate list of techniques that need to be implemented as opposed to checkpoints that need to be met
+ 
+        &amp;gt; How about we have the following categories: 
+        &amp;gt; + Things you need to do to meet the checkpoint (these can be fairly general) 
+        &amp;gt; + Techniques to do this (which should say how much of it they do) 
+        &amp;gt; + Things which are good to do although they go beyond the requirements of the checkpoint
+ 
+        &amp;gt; + References 
+        &amp;gt; These probably need to be sorted (where applicable) by tool type and priority
+ 
+        &amp;gt; For example to meet checkpoint 1
+1 in a level-A tool, all that needs to be done is to provide source editing (and meet checkpoint 1
+2 Preserve all accessibiltiy information, which can be done by not messing up the source)
+ 
+        &amp;gt; But for a WYSIWYG tool this will not conform to 5
+1 and 5
+2, so the tool cannot get to double-A
+ 
+        &amp;gt; A source editing tool can use this technique to any level
+ 
+        &amp;gt;&amp;gt; Hi all, Sorry I forgot to attach the file
+ 
+      
+    
+  
+
+ 

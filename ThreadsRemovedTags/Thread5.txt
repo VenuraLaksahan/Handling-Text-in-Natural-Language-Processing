@@ -1,0 +1,119 @@
+  
+    September F2F
+    026-4380722
+    
+      Fri May 30 12:15:41 -0700 2003
+      Martin Chapman &lt;martin.chapman@oracle.com&gt;
+      &lt;public-ws-chor@w3.org&gt;
+      September F2F
+      
+         We are trying to do advanced planning for a F2F in September. 
+
+         Because of the membership overlap with the OASIS BPEL TC, we would like to try and co-locate with their meetings. 
+         This is not a joint meeting, and is being proposed purely to ease travel logistics and members' costs. 
+
+         The OASIS TC is proposing to meet 17 (afternoon), 18, and 19 September, either in Seattle or Germany. 
+         Thus it makes sense to try and meet on 15, 16, and 17 (Morning) September. 
+
+         Can people check their diaries for these dates and inform the chairs asap. 
+
+         SAP have offered to host the meeting in Germany (thanks Kevin), but should the BPEL TC decide to meet in Seattle, we would need to find a host. 
+
+         Offers gratefully accepted. 
+
+      
+    
+    
+      Fri May 30 18:33:54 -0700 2003
+      Francis McCabe &lt;fgm@fla.fujitsu.com&gt;
+      "Martin Chapman" &lt;martin.chapman@oracle.com&gt;
+      &lt;public-ws-chor@w3.org&gt;
+      Re: September F2F
+      
+          Where in Germany? 
+
+         &gt; We are trying to do advanced planning for a F2F in September. 
+
+         &gt; Because of the membership overlap with the OASIS BPEL TC, we would like to try and co-locate with their meetings. 
+         &gt; This is not a joint meeting, and is being proposed purely to ease travel logistics and members' costs. 
+
+         &gt; The OASIS TC is proposing to meet 17 (afternoon), 18, and 19 September, either in Seattle or Germany. 
+         &gt; Thus it makes sense to try and meet on 15, 16, and 17 (Morning) September. 
+
+         &gt; Can people check their diaries for these dates and inform the chairs asap. 
+
+         &gt; SAP have offered to host the meeting in Germany (thanks Kevin), but should the BPEL TC decide to meet in Seattle, we would need to find a host. 
+
+         &gt; Offers gratefully accepted. 
+
+      
+    
+    
+      Fri May 30 19:15:55 -0700 2003
+      Carol McDonald &lt;carol.mcdonald@sun.com&gt;
+      Francis McCabe &lt;fgm@fla.fujitsu.com&gt;
+      Re: September F2F
+      
+          SAP is in Waldorf not far from Heidelberg 
+
+         &gt; Where in Germany? 
+
+         &gt;&gt; We are trying to do advanced planning for a F2F in September. 
+
+         &gt;&gt; Because of the membership overlap with the OASIS BPEL TC, we would like to try and co-locate with their meetings. 
+         &gt;&gt; This is not a joint meeting, and is being proposed purely to ease travel logistics and members' costs. 
+
+         &gt;&gt; The OASIS TC is proposing to meet 17 (afternoon), 18, and 19 September, either in Seattle or Germany. 
+         &gt;&gt; Thus it makes sense to try and meet on 15, 16, and 17 (Morning) September. 
+
+         &gt;&gt; Can people check their diaries for these dates and inform the chairs asap. 
+
+         &gt;&gt; SAP have offered to host the meeting in Germany (thanks Kevin), but should the BPEL TC decide to meet in Seattle, we would need to find a host. 
+
+         &gt;&gt; Offers gratefully accepted. 
+
+      
+    
+    
+      Sun Jun 01 20:21:02 -0700 2003
+      Monica J. Martin &lt;monica.martin@sun.com&gt;
+      Francis McCabe &lt;fgm@fla.fujitsu.com&gt;
+      Re: September F2F
+      
+         &gt; The OASIS TC is proposing to meet 17 (afternoon), 18, and 19 September, either in Seattle or Germany. 
+         &gt; Thus it makes sense to try and meet on 15, 16, and 17 (Morning) September. 
+
+         &gt; Can people check their diaries for these dates and inform the chairs asap. 
+
+         mm1: This overlaps with SunNetworks. 
+         Could we investigate trying the next week?
+      
+    
+    
+      Wed Jun 04 19:35:33 -0700 2003
+      Martin Chapman &lt;martin.chapman@oracle.com&gt;
+      "Monica J. Martin" &lt;monica.martin@sun.com&gt; ,"Francis McCabe" &lt;fgm@fla.fujitsu.com&gt;
+      &lt;public-ws-chor@w3.org&gt;
+      RE: September F2F
+      
+         It's certainly possible, but we shouldn't get into an n-phase transaction: 
+
+         if its in germany those that want to attend both meetings get a weekend in Heidelburg. 
+
+         If BPEl decides to meet in Seattle I'm not sure many would have such a weekend stayover. 
+
+         Of course of bpel meet the following week ... 
+
+         You see where I'm going with this! 
+        
+         &gt;&gt; The OASIS TC is proposing to meet 17 (afternoon), 18, and 19 September, either in Seattle or Germany. 
+         &gt;&gt; Thus it makes sense to try and meet on 15, 16, and 17 (Morning) September. 
+
+         &gt;&gt; Can people check their diaries for these dates and inform the chairs asap. 
+
+         &gt; mm1: This overlaps with SunNetworks. 
+         &gt; Could we investigate trying the next week?
+      
+    
+  
+

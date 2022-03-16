@@ -1,0 +1,117 @@
+  
+    Face to face meetings
+    059-7186494
+    
+      Thu Jul 20 15:25:52 -0700 2000
+      Charles McCathieNevile &lt;charles@w3
+org&gt;
+      WAI AU Guidelines &lt;w3c-wai-au@w3
+org&gt;
+      Face to face meetings
+      
+        There have been a couple of possiblities raised: 
+
+        Ottawa, 5 or 6 October (This depends on a number of other W3C timing issues) 
+
+        Nashville, mid october 
+
+        How do people feel about either of these? 
+        Are we ready for a meeting, overdue for one, nowhere near it? 
+        Are these good locations, or does someone have another proposal (offer of hosting
+
+
+) 
+
+      
+    
+    
+      Thu Jul 20 15:52:16 -0700 2000
+      William Loughborough &lt;love26@gorge
+net&gt;
+      WAI AU Guidelines &lt;w3c-wai-au@w3
+org&gt;
+      Re: Face to face meetings
+      
+        I think we should have something more concrete to meet about 
+        - something that doesn't lend itself to list/telecon handling
+ 
+
+        Plus it would be extremely helpful if more than one WG met around the same time/place
+ 
+        Not necessarily in conjunction with some "external" event
+ 
+
+      
+    
+    
+      Thu Jul 20 16:59:07 -0700 2000
+      Heather Swayne &lt;hswayne@microsoft
+com&gt;
+      "'Charles McCathieNevile'" &lt;charles@w3
+org&gt; , WAI AU Guidelines &lt;w3c-wai-au@w3
+org&gt;
+      RE: Face to face meetings
+      
+        I think a face-to-face is a good idea and have no problems with either of the dates suggested
+ 
+
+        &gt; There have been a couple of possiblities raised: 
+
+        &gt; Ottawa, 5 or 6 October (This depends on a number of other W3C timing issues) 
+
+        &gt; Nashville, mid october 
+
+        &gt; How do people feel about either of these? 
+        &gt; Are we ready for a meeting, overdue for one, nowhere near it? 
+        &gt; Are these good locations, or does someone have another proposal (offer of hosting
+
+
+) 
+
+      
+    
+    
+      Tue Jul 25 13:33:49 -0700 2000
+      Jutta Treviranus &lt;jutta
+treviranus@utoronto
+ca&gt;
+      Charles McCathieNevile &lt;charles@w3
+org&gt; , WAI AU Guidelines &lt;w3c-wai-au@w3
+org&gt;
+      Re: Face to face meetings
+      
+        The Nashville conference is the Educause conference from October 10-13
+ 
+        All courseware developers will be attending
+ 
+        Norman Coombs and I will be presenting on accessible courseware authoring
+ 
+        Information about the event is at: http://www
+educause
+edu/conference/e2000 
+
+        For the face to face meeting we had talked about having a working meeting
+ 
+        We would have a set of tasks ie
+ Techniques for specific checkpoints, designing the conformance document, evaluating representative tools
+ 
+        We would break out into small groups to create drafts and then gather as a whole group to review the drafts
+ 
+
+        &gt; There have been a couple of possiblities raised: 
+
+        &gt; Ottawa, 5 or 6 October (This depends on a number of other W3C timing issues) 
+
+        &gt; Nashville, mid october 
+
+        &gt; How do people feel about either of these? 
+        &gt; Are we ready for a meeting, overdue for one, nowhere near it? 
+        &gt; Are these good locations, or does someone have another proposal (offer of hosting
+
+
+) 
+
+      
+    
+  
+
