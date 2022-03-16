@@ -1,0 +1,136 @@
+  <thread>
+    <name>SWADEurope postcard picture</name>
+    <listno>015-2625401</listno>
+    <DOC>
+      <Received>Fri Apr 25 06:39:28 -0700 2003</Received>
+      <From>Libby Miller &lt;Libby.Miller@bristol.ac.uk&gt;</From>
+      <To>public-esw@w3.org</To>
+      <Subject>SWADEurope postcard picture</Subject>
+      <Text>
+		<Sent id="1.2"> <Topic label=Gathering locational data of researchers>hi all, As outlined at the face to face meet, I've been working on methods of getting coordinate information about the locations of Semantic web researchers and groups. </Sent>
+        <Sent id="1.3"> <Topic label=Gathering locational data of researchers>I wrote to the www-rdf-interest list asking for data: 
+</Sent>
+        <Sent id="1.5"> <Topic label=Gathering locational data of researchers>so we'll have to see how that pans out. </Sent>
+        <Sent id="1.6"> <Topic label=Gathering locational data of researchers>Please do add yourselves if you've not already there (I just did a few as examples). 
+</Sent>
+        <Sent id="1.7"> <Topic label=Choosing a map style>There are some SVG demos, developed from ones by Jim Ley, displaying the information we have already, which I constructed as examples: 
+</Sent>
+        <Sent id="1.9"> <Topic label=Choosing a map style>So, now we have to decide on the map which we will use to overlay the dots on. </Sent>
+        <Sent id="1.10"> <Topic label=Choosing a map style>We want something that will highlight Europe, especially since on a world map, Europe is too small to really show up on provide the level of detail we require. </Sent>
+        <Sent id="1.11"> <Topic label=Choosing a map style>At ILRT, Caroline Meek, Dan and I have had discussions with a designer, and he has pointed us at some examples, and we've narrowed it down to two that we rather like: 
+</Sent>
+        <Sent id="1.13"> <Topic label=Choosing a map style>which has the advantage of showing Europe as part of the world (we could get rid of the arm of the globe that is showing, and alter the colours); 
+</Sent>
+        <Sent id="1.15"> <Topic label=Choosing a map style>which would be technically simpler to do, but shows Europe in isolation (I do like the colour scheme though). 
+</Sent>
+        <Sent id="1.16"> <Topic label=Choosing a map style>Do people have a preference for one style over the other? 
+</Sent>
+        <Sent id="1.17"> <Topic label=Choosing a map style>Could you let us know today if possible? </Sent>
+        <Sent id="1.18"> <Topic label=Choosing a map style>We need to specify the map as soon as possible in order to get postcards printed for www2003. 
+</Sent>
+        <Sent id="1.21"> <Topic label=Choosing a map style>p.s. Here's a nice similar idea: 
+</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Apr 25 07:12:54 -0700 2003</Received>
+      <From>Dickinson, Ian J &lt;Ian.Dickinson@hp.com&gt;</From>
+      <To>"'Libby Miller'" &lt;Libby.Miller@bristol.ac.uk&gt; ,public-esw@w3.org</To>
+      <Subject>RE: SWADEurope postcard picture</Subject>
+      <Text>
+        <Sent id="2.1"> <Topic label=Choosing a map style>&gt; Do people have a preference for one style over the other? 
+</Sent>
+        <Sent id="2.2"> <Topic label=Choosing a map style>&gt; Could you let us know today if possible? </Sent>
+        <Sent id="2.3"> <Topic label=Choosing a map style>&gt; We need to specify the map as soon as possible in order to get postcards printed for www2003. 
+</Sent>
+        <Sent id="2.4"> <Topic label=Choosing a map style>Can't say I'm particularly grabbed by either of them, but if you have to pick one I'd go for the map, not the globe. </Sent>
+        <Sent id="2.5"> <Topic label=Choosing a map style>Is there any reason it has to be geographically accurate? </Sent>
+        <Sent id="2.6"> <Topic label=Choosing a map style>Perhaps a schematic, analogous to the London Underground map of London, would allow you to convey the sense of spatial distribution without getting hung up on the scale problem. </Sent>
+        <Sent id="2.7"> <Topic label=Choosing a map style>Of course, you may not consider that a helpful suggestion given the short timescale :-) 
+</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Apr 25 07:22:24 -0700 2003</Received>
+      <From>Dan Brickley &lt;danbri@w3.org&gt;</From>
+      <To>"Dickinson, Ian J" &lt;Ian.Dickinson@hp.com&gt;</To>
+      <Cc>"'Libby Miller'" &lt;Libby.Miller@bristol.ac.uk&gt; ,public-esw@w3.org</Cc>
+      <Subject>Re: SWADEurope postcard picture</Subject>
+      <Text>
+        <Sent id="3.3"> <Topic label=Choosing a map style>&gt;&gt; Do people have a preference for one style over the other? 
+</Sent>
+        <Sent id="3.4"> <Topic label=Choosing a map style>&gt;&gt; Could you let us know today if possible? </Sent>
+        <Sent id="3.5"> <Topic label=Choosing a map style>&gt;&gt; We need to specify the map as soon as possible in order to get postcards printed for www2003. 
+</Sent>
+        <Sent id="3.6"> <Topic label=Choosing a map style>&gt; Can't say I'm particularly grabbed by either of them, but if you have to pick one I'd go for the map, not the globe. </Sent>
+        <Sent id="3.7"> <Topic label=Choosing a map style>&gt; Is there any reason it has to be geographically accurate? </Sent>
+        <Sent id="3.8"> <Topic label=Choosing a map style>&gt; Perhaps a schematic, analogous to the London Underground map of London, would allow you to convey the sense of spatial distribution without getting hung up on the scale problem. </Sent>
+        <Sent id="3.9"> <Topic label=Choosing a map style>&gt; Of course, you may not consider that a helpful suggestion given the short timescale :-) 
+</Sent>
+        <Sent id="3.10"> <Topic label=Choosing a map style>One advantage of being geographically accurate is it simplifies our lives when we try to plot SW researchers, groups, events etc on the map... 
+</Sent>
+        <Sent id="3.11"> <Topic label=Choosing a map style>I prefer the map to the globe, fwiw. 
+</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Apr 25 07:36:41 -0700 2003</Received>
+      <From>Libby Miller &lt;Libby.Miller@bristol.ac.uk&gt;</From>
+      <To>"Dickinson, Ian J" &lt;Ian.Dickinson@hp.com&gt;</To>
+      <Subject>RE: SWADEurope postcard picture</Subject>
+      <Text>
+        <Sent id="4.1"> <Topic label=Choosing a map style>yeah, sorry it's such a rush. </Sent>
+        <Sent id="4.2"> <Topic label=Choosing a map style>It took a long time to write the document explaining how to write the RDF. </Sent>
+        <Sent id="4.3"> <Topic label=Choosing a map style>At this stage we really need examples to show the designer though </Sent>
+        <Sent id="4.4"> <Topic label=Choosing a map style>- I'll pass your comments along to him, see if he has anything like that. 
+</Sent>
+        <Sent id="4.5"> <Topic label=Choosing a map style>What don't you like about them in particular? 
+</Sent>
+        <Sent id="4.10"> <Topic label=Choosing a map style>&gt;&gt; Do people have a preference for one style over the other? 
+</Sent>
+        <Sent id="4.11"> <Topic label=Choosing a map style>&gt;&gt; Could you let us know today if possible? </Sent>
+        <Sent id="4.12"> <Topic label=Choosing a map style>&gt;&gt; We need to specify the map as soon as possible in order to get postcards printed for www2003. 
+</Sent>
+        <Sent id="4.13"> <Topic label=Choosing a map style>&gt; Can't say I'm particularly grabbed by either of them, but if you have to pick one I'd go for the map, not the globe. </Sent>
+        <Sent id="4.14"> <Topic label=Choosing a map style>&gt; Is there any reason it has to be geographically accurate? </Sent>
+        <Sent id="4.15"> <Topic label=Choosing a map style>&gt; Perhaps a schematic, analogous to the London Underground map of London, would allow you to convey the sense of spatial distribution without getting hung up on the scale problem. </Sent>
+        <Sent id="4.16"> <Topic label=Choosing a map style>&gt; Of course, you may not consider that a helpful suggestion given the short timescale :-) 
+</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Apr 25 10:32:27 -0700 2003</Received>
+      <From>Dickinson, Ian J &lt;Ian.Dickinson@hp.com&gt;</From>
+      <To>"'Libby Miller'" &lt;Libby.Miller@bristol.ac.uk&gt;</To>
+      <Cc>public-esw &lt;public-esw@w3.org&gt;</Cc>
+      <Subject>RE: SWADEurope postcard picture</Subject>
+      <Text>
+        <Sent id="5.2"> <Topic label=Choosing a map style>&gt; What don't you like about them in particular? 
+</Sent>
+        <Sent id="5.3"> <Topic label=Choosing a map style>Hi Libby, The globe is too visually busy for a background (imho), and if you decrease the opacity I think you'll lose too much of the important bits (like where the UK is :-). </Sent>
+        <Sent id="5.4"> <Topic label=Choosing a map style>The map would be OK as a backdrop for the FOAF map if it was semi-opaque, but (a) it misses out the rest of the world, as you said yourself, and (b) there's a big blue empty space on the left :-). </Sent>
+        <Sent id="5.5"> <Topic label=Choosing a map style>The atlantic is just too big** if you keep it to scale, hence my suggestion to use more of a schematic approach. </Sent>
+        <Sent id="5.6"> <Topic label=Choosing a map style>I guess you need the cartographical equivalent of an ellipsis, whatever that might be! 
+</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Apr 25 15:18:38 -0700 2003</Received>
+      <From>Libby Miller &lt;Libby.Miller@bristol.ac.uk&gt;</From>
+      <To>"Dickinson, Ian J" &lt;Ian.Dickinson@hp.com&gt;</To>
+      <Subject>RE: SWADEurope postcard picture</Subject>
+      <Text>
+        <Sent id="6.2"> <Topic label=Choosing a map style>thanks Ian, I broadly agree with you. </Sent>
+        <Sent id="6.3"> <Topic label=Choosing a map style>For (b) though, that might work in our favour, as we can put a logo and/or a slogan there. 
+</Sent>        
+        <Sent id="6.7"> <Topic label=Choosing a map style>&gt;&gt; What don't you like about them in particular? 
+</Sent>
+        <Sent id="6.8"> <Topic label=Choosing a map style>&gt; The globe is too visually busy for a background (imho), and if you decrease the opacity I think you'll lose too much of the important bits (like where the UK is :-). </Sent>
+        <Sent id="6.9"> <Topic label=Choosing a map style>&gt; The map would be OK as a backdrop for the FOAF map if it was semi-opaque, but (a) it misses out the rest of the world, as you said yourself, and (b) there's a big blue empty space on the left :-). </Sent>
+        <Sent id="6.10"> <Topic label=Choosing a map style>&gt; The atlantic is just too big** if you keep it to scale, hence my suggestion to use more of a schematic approach. </Sent>
+        <Sent id="6.11"> <Topic label=Choosing a map style>&gt; I guess you need the cartographical equivalent of an ellipsis, whatever that might be! 
+</Sent>
+      </Text>
+    </DOC>
+  </thread>
+ 

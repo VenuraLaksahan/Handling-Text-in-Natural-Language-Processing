@@ -1,0 +1,143 @@
+  <thread>
+    <name>no RDF Core telcon this friday, 9Jan, right?</name>
+    <listno>053-15927827</listno>
+    <DOC>
+      <Received>Wed Jan 07 10:12:33 -0800 2004</Received>
+      <From>Dan Connolly &lt;connolly@w3.org&gt;</From>
+      <To>w3c-rdfcore-wg@w3.org</To>
+      <Subject>no RDF Core telcon this friday, 9Jan, right?</Subject>
+      <Text>
+        <Sent id="1.1"><Topic label=Status of telecon scheduling>I've got an opportunity to do some fun family stuff this Friday, so I'd like to know whether it conflicts with an RDF Core telcon. </Sent>
+        <Sent id="1.2"><Topic label=Status of telecon scheduling>I haven't seen notice, and we're less than 7 days away, so I presume there's no WG telcon this week. </Sent>
+        <Sent id="1.3"><Topic label=Status of telecon scheduling>Sorry if I missed an announcement to that effect. </Sent>
+        <Sent id="1.4"><Topic label=Status of telecon scheduling>If the WG meets, I suppose it'll be somewhat unofficially. </Sent>
+        <Sent id="1.5"><Topic label=Status of telecon scheduling>In that case, I offer regrets. </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Jan 07 12:09:05 -0800 2004</Received>
+      <From>Brian McBride &lt;bwm@hplb.hpl.hp.com&gt;</From>
+      <To>Dan Connolly &lt;connolly@w3.org&gt; , Eric Miller &lt;em@w3.org&gt;</To>
+      <Cc>w3c-rdfcore-wg@w3.org</Cc>
+      <Subject>Re: no RDF Core telcon this friday, 9Jan, right?</Subject>
+      <Text>
+        <Sent id="2.1"><Topic label=Status of telecon scheduling>Hmm, I was just wondering that myself. </Sent>
+        <Sent id="2.3"><Topic label=the need to discuss/approve wording changes>I see the following possible agenda items for a telecon: </Sent>
+        <Sent id="2.4"><Topic label=the need to discuss/approve wording changes>a) wording changes to the semantics doc </Sent>
+        <Sent id="2.5"><Topic label=the need to discuss/approve wording changes>b) advice to the CG about what to do about postponed issues </Sent>
+        <Sent id="2.6"><Topic label=the need to discuss/approve wording changes>Dan, would you like the WG to meet to discuss/approve the proposed wording changes? </Sent>
+        <Sent id="2.7"><Topic label=Status of telecon scheduling>Will the 16th be soon enough? </Sent>
+        <Sent id="2.8"><Topic label=the need to discuss/approve wording changes>Eric, is the CG seeking input from the WG about b). </Sent>
+        <Sent id="2.9"><Topic label=the need to discuss/approve wording changes>WG, do folks want to meet to discuss a), b) or anything else? </Sent>
+        <Sent id="2.10"><Topic label=Status of telecon scheduling>I will send a formal notification of a telecon for 16th Jan, but will cancel if its not needed. </Sent>
+        <Sent id="2.11"><Topic label=OFF_TOPIC>Dan, I hope you have fun on Friday. </Sent>
+        <Sent id="2.13">&amp;gt; I've got an opportunity to do some fun family stuff this Friday, so I'd like to know whether it conflicts with an RDF Core telcon. </Sent>
+        <Sent id="2.14">&amp;gt; I haven't seen notice, and we're less than 7 days away, so I presume there's no WG telcon this week. </Sent>
+        <Sent id="2.15">&amp;gt; Sorry if I missed an announcement to that effect. </Sent>
+        <Sent id="2.16">&amp;gt; If the WG meets, I suppose it'll be somewhat unofficially. </Sent>
+        <Sent id="2.17">&amp;gt; In that case, I offer regrets. </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Jan 07 12:21:15 -0800 2004</Received>
+      <From>Eric Miller &lt;em@w3.org&gt;</From>
+      <To>Brian McBride &lt;bwm@hplb.hpl.hp.com&gt;</To>
+      <Cc>Dan Connolly &lt;connolly@w3.org&gt; ,w3c-rdfcore-wg@w3.org</Cc>
+      <Subject>Re: no RDF Core telcon this friday, 9Jan, right?</Subject>
+      <Text>
+        <Sent id="3.1">&amp;gt; Hmm, I was just wondering that myself. </Sent>
+        <Sent id="3.3">&amp;gt; I see the following possible agenda items for a telecon: </Sent>
+        <Sent id="3.4">&amp;gt; a) wording changes to the semantics doc </Sent>
+        <Sent id="3.5">&amp;gt; b) advice to the CG about what to do about postponed issues </Sent>
+        <Sent id="3.6">&amp;gt; Dan, would you like the WG to meet to discuss/approve the proposed wording changes? </Sent>
+        <Sent id="3.7">&amp;gt; Will the 16th be soon enough? </Sent>
+        <Sent id="3.8">&amp;gt; Eric, is the CG seeking input from the WG about b). </Sent>
+        <Sent id="3.9"><Topic label=the need to discuss/approve wording changes>Yes. </Sent>		
+        <Sent id="3.10"><Topic label=the need to discuss/approve wording changes>This issue was on last Monday's SW-CG agenda but time ran out before we were able to discuss this. </Sent>
+        <Sent id="3.11"><Topic label=the need to discuss/approve wording changes>The need isn't urgent (e.g. no need to have a rdf-core call just for this issue) but should be addressed some time by the end of the month. </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Jan 07 12:33:14 -0800 2004</Received>
+      <From>Dan Connolly &lt;connolly@w3.org&gt;</From>
+      <To>Brian McBride &lt;bwm@hplb.hpl.hp.com&gt;</To>
+      <Cc>Eric Miller &lt;em@w3.org&gt; ,w3c-rdfcore-wg@w3.org</Cc>
+      <Subject>Re: no RDF Core telcon this friday, 9Jan, right?</Subject>
+      <Text>
+        <Sent id="4.1">&amp;gt; Hmm, I was just wondering that myself. </Sent>
+        <Sent id="4.3">&amp;gt; I see the following possible agenda items for a telecon: </Sent>
+        <Sent id="4.4">&amp;gt; a) wording changes to the semantics doc </Sent>
+        <Sent id="4.5">&amp;gt; b) advice to the CG about what to do about postponed issues </Sent>
+        <Sent id="4.6">&amp;gt; Dan, would you like the WG to meet to discuss/approve the proposed wording changes? </Sent>
+        <Sent id="4.7"><Topic label=the need to discuss/approve wording changes>yes. </Sent>
+        <Sent id="4.8">&amp;gt; Will the 16th be soon enough? </Sent>
+        <Sent id="4.9"><Topic label=Status of telecon scheduling>Good question, but I haven't done the relevant calendar research to figure it out. </Sent>
+        <Sent id="4.10"><Topic label=Status of telecon scheduling>EricM, I leave that to you. </Sent>
+        <Sent id="4.11"><Topic label=Status of telecon scheduling>Call/page me if you'd like help. </Sent>
+        <Sent id="4.12">&amp;gt; Eric, is the CG seeking input from the WG about b). </Sent>
+        <Sent id="4.13">&amp;gt; WG, do folks want to meet to discuss a), b) or anything else? </Sent>
+        <Sent id="4.14">&amp;gt; I will send a formal notification of a telecon for 16th Jan, but will cancel if its not needed. </Sent>
+        <Sent id="4.15">&amp;gt; Dan, I hope you have fun on Friday. </Sent>
+        <Sent id="4.16"><Topic label=OFF_TOPIC>Likewise. 1/2 ;-) </Sent>
+        <Sent id="4.18">&amp;gt;&amp;gt; I've got an opportunity to do some fun family stuff this Friday, so I'd like to know whether it conflicts with an RDF Core telcon. </Sent>
+        <Sent id="4.19">&amp;gt;&amp;gt; I haven't seen notice, and we're less than 7 days away, so I presume there's no WG telcon this week. </Sent>
+        <Sent id="4.20">&amp;gt;&amp;gt; Sorry if I missed an announcement to that effect. </Sent>
+        <Sent id="4.21">&amp;gt;&amp;gt; If the WG meets, I suppose it'll be somewhat unofficially. </Sent>
+        <Sent id="4.22">&amp;gt;&amp;gt; In that case, I offer regrets. </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Jan 07 13:05:08 -0800 2004</Received>
+      <From>Jeremy Carroll &lt;jjc@hplb.hpl.hp.com&gt;</From>
+      <To>Brian McBride &lt;bwm@hplb.hpl.hp.com&gt;</To>
+      <Cc>Dan Connolly &lt;connolly@w3.org&gt; , Eric Miller &lt;em@w3.org&gt; ,w3c-rdfcore-wg@w3.org</Cc>
+      <Subject>Re: no RDF Core telcon this friday, 9Jan, right?</Subject>
+      <Text>
+        <Sent id="5.1">&amp;gt; b) advice to the CG about what to do about postponed issues </Sent>
+        <Sent id="5.2"><Topic label=the need to discuss/approve wording changes>Personally I prefer not to discuss postponed issues (for new recs?) until we've got this one in the bag. </Sent>
+        <Sent id="5.3"><Topic label=the need to discuss/approve wording changes>As HP rep the position I represented was we did not need to resolve these issues in this standardization round. </Sent>
+        <Sent id="5.4"><Topic label=the need to discuss/approve wording changes>For the next few weeks that remains the position I wish to represent. </Sent>
+        <Sent id="5.5"><Topic label=the need to discuss/approve wording changes>When we get to rec, I have things that I individually think about the postponed issues and could contribute to a discussion. </Sent>
+        <Sent id="5.6"><Topic label=the need to discuss/approve wording changes>Sorry for being so cautious. </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Jan 07 13:31:01 -0800 2004</Received>
+      <From>Brian McBride &lt;bwm@hplb.hpl.hp.com&gt;</From>
+      <To>Jeremy Carroll &lt;jjc@hplb.hpl.hp.com&gt;</To>
+      <Cc>Eric Miller &lt;em@w3.org&gt; ,w3c-rdfcore-wg@w3.org</Cc>
+      <Subject>Re: no RDF Core telcon this friday, 9Jan, right?</Subject>
+      <Text>
+        <Sent id="6.1">&amp;gt;&amp;gt; b) advice to the CG about what to do about postponed issues </Sent>
+        <Sent id="6.2">&amp;gt; Personally I prefer not to discuss postponed issues (for new recs?) until we've got this one in the bag. </Sent>
+        <Sent id="6.3">&amp;gt; As HP rep the position I represented was we did not need to resolve these issues in this standardization round. </Sent>
+        <Sent id="6.4">&amp;gt; For the next few weeks that remains the position I wish to represent. </Sent>
+        <Sent id="6.5"><Topic label=the need to discuss/approve wording changes>I was not clear. </Sent>
+        <Sent id="6.6"><Topic label=the need to discuss/approve wording changes>I was not proposing we discuss resolutions of the issues, but suggestions to the CG of how/whether these issues might, at some point in the future be resolved. </Sent>
+        <Sent id="6.7"><Topic label=the need to discuss/approve wording changes>For example, the WG might recommend to the CG that some issues are higher priority than others. </Sent>
+        <Sent id="6.8"><Topic label=the need to discuss/approve wording changes>Is that a discussion you feel able to contribute to? </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Jan 07 14:24:34 -0800 2004</Received>
+      <From>Jeremy Carroll &lt;jjc@hplb.hpl.hp.com&gt;</From>
+      <To>Brian McBride &lt;bwm@hplb.hpl.hp.com&gt;</To>
+      <Cc>Eric Miller &lt;em@w3.org&gt; ,w3c-rdfcore-wg@w3.org</Cc>
+      <Subject>Re: no RDF Core telcon this friday, 9Jan, right?</Subject>
+      <Text>
+        <Sent id="7.1">&amp;gt;&amp;gt;&amp;gt; b) advice to the CG about what to do about postponed issues </Sent>
+        <Sent id="7.2">&amp;gt;&amp;gt; Personally I prefer not to discuss postponed issues (for new recs?) until we've got this one in the bag. </Sent>
+        <Sent id="7.3">&amp;gt;&amp;gt; As HP rep the position I represented was we did not need to resolve these issues in this standardization round. </Sent>
+        <Sent id="7.4">&amp;gt;&amp;gt; For the next few weeks that remains the position I wish to represent. </Sent>
+        <Sent id="7.5">&amp;gt; I was not clear. </Sent>
+        <Sent id="7.6">&amp;gt; I was not proposing we discuss resolutions of the issues, but suggestions to the CG of how/whether these issues might, at some point in the future be resolved. </Sent>
+        <Sent id="7.7">&amp;gt; For example, the WG might recommend to the CG that some issues are higher priority than others. </Sent>
+        <Sent id="7.8">&amp;gt; Is that a discussion you feel able to contribute to? </Sent>
+        <Sent id="7.9"><Topic label=the need to discuss/approve wording changes>I am not sure that we can have a procedural only discussion </Sent>
+        <Sent id="7.10"><Topic label=the need to discuss/approve wording changes>- I guess if I am unconfortable I will just stay quiet </Sent>
+        <Sent id="7.11"><Topic label=the need to discuss/approve wording changes>- and my silence should not be interpreted as assent. </Sent>
+        <Sent id="7.12"><Topic label=the need to discuss/approve wording changes>For instance, I decided to not reply to Grahams msg on the postponed issues despite disagreeing with it. </Sent>
+      </Text>
+    </DOC>
+  </thread>
+

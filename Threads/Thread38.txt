@@ -1,0 +1,132 @@
+  <thread>
+    <name>color choice overrides</name>
+    <listno>094-2808305</listno>
+    <DOC>
+      <Received>Sat Aug 14 18:21:37 -0700 1999</Received>
+      <From>John Russell &lt;VE3LL@RAC.CA&gt;</From>
+      <To>www-amaya@w3.org</To>
+      <Subject>color choice overrides</Subject>
+      <Text>
+        <Sent id="1.1"><Topic label=Amaya CSS override capabilities>Many web authors make poor colour choices. 
+</Sent>
+        <Sent id="1.2"><Topic label=Amaya CSS override capabilities>Some of these make pages unreadable to colour-impaired viewers. </Sent>
+        <Sent id="1.3"><Topic label=Amaya CSS override capabilities>Several browsers allow an override setting to be configured by the viewer. </Sent>
+        <Sent id="1.4"><Topic label=Amaya CSS override capabilities>DOES AMAYA ALLOW THE VIEWER TO OVERRIDE SETTING MADE INSIDE THE HTML DOCUMENTS 
+</Sent>
+        <Sent id="1.5"><Topic label=Amaya CSS override capabilities>Being slightly blue/green impaired myself, I view this as an important accessibility feature that all browsers, including Amaya should include. 
+</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Aug 16 03:02:09 -0700 1999</Received>
+      <From>Irene.Vatton@inrialpes.fr &lt;Irene.Vatton@inrialpes.fr&gt;</From>
+      <To>"John Russell" &lt;VE3LL@RAC.CA&gt;</To>
+      <Subject>Re: color choice overrides</Subject>
+      <Text>
+        <Sent id="2.1">&gt; Many web authors make poor colour choices. 
+</Sent>
+        <Sent id="2.2">&gt; Some of these make pages unreadable to colour-impaired viewers. </Sent>
+        <Sent id="2.3">&gt; Several browsers allow an override setting to be configured by the viewer. </Sent>
+        <Sent id="2.4">&gt; DOES AMAYA ALLOW THE VIEWER TO OVERRIDE SETTING MADE INSIDE THE HTML DOCUMENTS 
+</Sent>
+        <Sent id="2.5"><Topic label=Amaya CSS override capabilities>Not exactly, but Amaya is an editor and you can easily change or remove the background/foreground color. 
+</Sent>
+        <Sent id="2.6">&gt; Being slightly blue/green impaired myself, I view this as an important accessibility feature that all browsers, including Amaya should include. 
+</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Aug 16 10:00:10 -0700 1999</Received>
+      <From>Charles McCathieNevile &lt;charles@w3.org&gt;</From>
+      <To>Irene.Vatton@inrialpes.fr</To>
+      <Subject>Re: color choice overrides</Subject>
+      <Text>
+        <Sent id="3.1"><Topic label=Using local CSS's>John, you could create your own local stylesheet, and make !imprtant declarations for colours. 
+</Sent>
+        <Sent id="3.4">&gt;&gt; Many web authors make poor colour choices. 
+</Sent>
+        <Sent id="3.5">&gt;&gt; Some of these make pages unreadable to colour-impaired viewers. </Sent>
+        <Sent id="3.6">&gt;&gt; Several browsers allow an override setting to be configured by the viewer. </Sent>
+        <Sent id="3.7">&gt;&gt; DOES AMAYA ALLOW THE VIEWER TO OVERRIDE SETTING MADE INSIDE THE HTML DOCUMENTS 
+</Sent>
+        <Sent id="3.8">&gt; Not exactly, but Amaya is an editor and you can easily change or remove the background/foreground color. 
+</Sent>
+        <Sent id="3.9">&gt;&gt; Being slightly blue/green impaired myself, I view this as an important accessibility feature that all browsers, including Amaya should include. 
+</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Aug 16 10:53:10 -0700 1999</Received>
+      <From>Charles McCathieNevile &lt;charles@w3.org&gt;</From>
+      <To>John Russell &lt;VE3LL@RAC.CA&gt;</To>
+      <Subject>Re: color choice overrides</Subject>
+      <Text>
+        <Sent id="4.1"><Topic label=Using local CSS's>charles' 5 line CSS tutorial... 
+</Sent>
+        <Sent id="4.2"><Topic label=Using local CSS's>to give a style to an element you list the element (called a selector in technical CSS writing), then in curly brackets you put the style feature you want to declare, a colon, and the value you want for that property. 
+</Sent>
+        <Sent id="4.3"><Topic label=Using local CSS's>example: 
+</Sent>
+        <Sent id="4.4"><Topic label=Using local CSS's>BODY { font-size: 24pt } 
+</Sent>
+        <Sent id="4.5"><Topic label=Using local CSS's>To set several properties at the same time, use a semi-colon between each declaration, inside the same set of curly brackets. 
+</Sent>
+        <Sent id="4.6"><Topic label=Using local CSS's>example: 
+</Sent>
+        <Sent id="4.7"><Topic label=Using local CSS's>H1 { font-size: 180% ; font-weight: bold ; line-height: 1.5em } 
+</Sent>
+        <Sent id="4.8"><Topic label=Using local CSS's>To make your statements override the ones that an author uses, add !important after each property declaration 
+</Sent>
+        <Sent id="4.9"><Topic label=Using local CSS's>example: 
+</Sent>
+        <Sent id="4.10"><Topic label=Using local CSS's>P { font-size: 12pt !important ; line-height: 2em !important } 
+</Sent>
+        <Sent id="4.11"><Topic label=Using local CSS's>NOTE: You should not do this in stylesheets that you publish, only your local stylesheet for reading, until the CSS2 cascade order is widely implemented. 
+</Sent>
+        <Sent id="4.12"><Topic label=Using local CSS's>If your browser uses the CSS2 cascade order, this will be fine. </Sent>
+        <Sent id="4.13"><Topic label=Using local CSS's>If not, then an author who has published a style sheet with !important will override yours. (sigh) 
+</Sent>
+        <Sent id="4.14"><Topic label=Using local CSS's>I don't know which cascade Amaya uses. </Sent>
+        <Sent id="4.15"><Topic label=Using local CSS's>It does allow you to disable any style sheet attached to a document, which is a handy feature. 
+</Sent>
+        <Sent id="4.19">&gt;&gt; Many web authors make poor colour choices. 
+</Sent>
+        <Sent id="4.20">&gt;&gt; Some of these make pages unreadable to colour-impaired viewers. </Sent>
+        <Sent id="4.21">&gt;&gt; Several browsers allow an override setting to be configured by the viewer. </Sent>
+        <Sent id="4.22">&gt;&gt; DOES AMAYA ALLOW THE VIEWER TO OVERRIDE SETTING MADE INSIDE THE HTML DOCUMENTS 
+</Sent>
+        <Sent id="4.23">&gt;&gt; Being slightly blue/green impaired myself, I view this as an important accessibility feature that all browsers, including Amaya should include. 
+</Sent>
+        <Sent id="4.24">&gt; Not exactly, but Amaya is an editor and you can easily change or remove the background/foreground color. 
+</Sent>
+        <Sent id="4.26">&gt; you can use stylesheets 
+</Sent>
+        <Sent id="4.27"><Topic label=Using local CSS's>I have used a stylesheet which works ok on my own editing at at my own site and on those where people are kind enough to let one choose for themself. </Sent>
+        <Sent id="4.28"><Topic label=Using local CSS's>Unfortunately once someone's site chooses a color you are stuck with it... </Sent>
+        <Sent id="4.29"><Topic label=Using local CSS's>I am suggesting that an override be provided as an ACCESSIBILITY issue. </Sent>
+        <Sent id="4.30"><Topic label=Using local CSS's>Amaya can lead the way on this as it does on several other issues such as MathML. </Sent>
+        <Sent id="4.31"><Topic label=Using local CSS's>Thanks for suggestion. </Sent>
+        <Sent id="4.32"><Topic label=Using local CSS's>It took a while to get amaya.css going as at first i thought it had to have tags ala html </Sent>
+        <Sent id="4.33"><Topic label=Using local CSS's>--- this worked on other browsers but not in amaya </Sent>
+        <Sent id="4.34"><Topic label=Using local CSS's>--- dropped any html tags and it worked like charm. </Sent>
+        <Sent id="4.35"><Topic label=Using local CSS's>I had better buy a better reference </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Tue Aug 17 03:05:01 -0700 1999</Received>
+      <From>Irene.Vatton@inrialpes.fr &lt;Irene.Vatton@inrialpes.fr&gt;</From>
+      <To>Charles McCathieNevile &lt;charles@w3.org&gt;</To>
+      <Subject>Re: color choice overrides</Subject>
+      <Text>
+        <Sent id="5.1">&gt; If your browser uses the CSS2 cascade order, this will be fine. </Sent>
+        <Sent id="5.2">&gt; If not, then an author who has published a style sheet with !important will override yours. (sigh) 
+</Sent>
+        <Sent id="5.3">&gt; I don't know which cascade Amaya uses. </Sent>
+        <Sent id="5.4">&gt; It does allow you to disable any style sheet attached to a document, which is a handy feature. 
+</Sent>
+        <Sent id="5.5"><Topic label=Amaya CSS override capabilities>Amaya doesn't take !important flag into account yet 
+</Sent>
+      </Text>
+    </DOC>
+  </thread>
+

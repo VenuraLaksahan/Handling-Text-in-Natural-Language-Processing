@@ -1,0 +1,97 @@
+  <thread>
+    <name>Re: StarOffice/OpenOffice.org accessibility effort</name>
+    <listno>059-15393869</listno>
+    <DOC>
+      <Received>Sat Nov 17 18:50:44 -0800 2001</Received>
+      <From>Charles McCathieNevile &lt;charles@w3.org&gt;</From>
+      <To>&lt;Peter.Korn@sun.com&gt;</To>
+      <Subject>Re: StarOffice/OpenOffice.org accessibility effort</Subject>
+      <Text>
+        <Sent id="1.1"><Topic label=W3C Accessibilty Guidelines>Peter, or other folks, Is there anyone from the OpenOffice or StarOffice projects who has time to represent the group on the W3C Authoring Tool Accessibility Guidelines working group, or to give us updates and feedback on how much those guidelines are implemented by the project? 
+</Sent>
+        <Sent id="1.3"><Topic label=W3C Accessibilty Guidelines>The Guidelines are designed to apply to all tools used to produce content for the Web </Sent>
+		
+        <Sent id="1.4"><Topic label=W3C Accessibilty Guidelines>- both "HTML editors" and the range of other tools that people use to produce content, such as office productivity tools and media editing tools. 
+</Sent>
+        <Sent id="1.5"><Topic label=W3C Accessibilty Guidelines>More information at http://www.w3.org/WAI/AU and guidelines (W3C Recommendation since Feb 2000) at http://www.w3.org/TR/ATAG10 
+</Sent>
+     </Text>
+    </DOC>
+	
+    <DOC>
+      <Received>Mon Nov 19 18:30:25 -0800 2001</Received>
+      <From>Liddy Nevile &lt;liddy@motile.net&gt;</From>
+      <To>WAI AU Guidelines &lt;w3c-wai-au@w3.org&gt;</To>
+      <Subject>apologies &amp;ndash;&amp;ndash;</Subject>
+      <Text>
+        <Sent id="2.1"><Topic label=Who attended the phone meeting>I was all set up and ready to go but missed my alarm and the call.... </Sent>
+        <Sent id="2.2"><Topic label=Who attended the phone meeting>sorry 
+</Sent>
+        <Sent id="2.3"><Topic label=Holding a summit>I wanted to discuss the possibility of a "summit" at www11 </Sent>
+        <Sent id="2.4"><Topic label=Holding a summit>- I think we have a full-day workshop on the tutorial workshop day but I wanted to check the agenda and format for that day. </Sent>
+        <Sent id="2.5"><Topic label=OFF_TOPIC>See next email. 
+</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Nov 19 18:38:19 -0800 2001</Received>
+      <From>Charles McCathieNevile &lt;charles@w3.org&gt;</From>
+      <To>Liddy Nevile &lt;liddy@motile.net&gt;</To>
+      <Subject>Re: apologies &amp;ndash;&amp;ndash;</Subject>
+      <Text>
+        <Sent id="3.1"><Topic label=Who attended the phone meeting>Me too, sorry folks. </Sent>
+        <Sent id="3.2"><Topic label=Who attended the phone meeting>Was anyone on the call? 
+</Sent>
+        <Sent id="3.4">&gt; I was all set up and ready to go but missed my alarm and the call.... </Sent>
+        <Sent id="3.5">&gt; sorry</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Tue Nov 20 09:37:49 -0800 2001</Received>
+      <From>Jan Richards &lt;jan.richards@utoronto.ca&gt;</From>
+      <To>WAI AU Guidelines &lt;w3c-wai-au@w3.org&gt;</To>
+      <Subject>Re: apologies &amp;ndash;&amp;ndash;</Subject>
+      <Text>
+        <Sent id="4.1"><Topic label=Who attended the phone meeting>Sorry, I missed too. </Sent>
+        <Sent id="4.2"><Topic label=Who attended the phone meeting>I slept in after flying in late. 
+</Sent>
+        <Sent id="4.4">&gt; Me too, sorry folks. </Sent>
+        <Sent id="4.5">&gt; Was anyone on the call? 
+</Sent>
+        <Sent id="4.7">&gt; I was all set up and ready to go but missed my alarm and the call.... </Sent>
+        <Sent id="4.8">&gt; sorry 
+</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Nov 23 09:42:17 -0800 2001</Received>
+      <From>Jutta Treviranus &lt;jutta.treviranus@utoronto.ca&gt;</From>
+      <To>Charles McCathieNevile &lt;charles@w3.org&gt; , Liddy Nevile &lt;liddy@motile.net&gt;</To>
+      <Cc>WAI AU Guidelines &lt;w3c-wai-au@w3.org&gt;</Cc>
+      <Subject>Re: apologies &amp;ndash;&amp;ndash;</Subject>
+      <Text>
+        <Sent id="5.1"><Topic label=Who attended the phone meeting>We did hold a short meeting with Phil and Heather on the call. </Sent>
+        <Sent id="5.2"><Topic label=Holding a summit>The Summit was discussed. </Sent>
+        <Sent id="5.3"><Topic label=Holding a summit>Heather will not be able to make it due to wedding plans, IBM will be there. </Sent>
+        <Sent id="5.4"><Topic label=Holding a summit>Everyone thought it was a good opportunity to pull together the various efforts. 
+</Sent>
+        <Sent id="5.6">&gt; Me too, sorry folks. </Sent>
+        <Sent id="5.7">&gt; Was anyone on the call? 
+</Sent>
+        <Sent id="5.9">&gt; I was all set up and ready to go but missed my alarm and the call.... </Sent>
+        <Sent id="5.10">&gt; sorry</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Sat Nov 24 00:22:10 -0800 2001</Received>
+      <From>Liddy Nevile &lt;liddy@motile.net&gt;</From>
+      <To>WAI AU Guidelines &lt;w3c-wai-au@w3.org&gt;</To>
+      <Subject>Re: WWW11 workshop</Subject>
+      <Text>
+        <Sent id="6.1"><Topic label=Holding a summit>I have submitted a request to hold this </Sent>
+        <Sent id="6.2"><Topic label=Holding a summit>- if we are successful we can decide how to do it and we do not need to go through papers submission etc .... 
+</Sent>
+      </Text>
+    </DOC>
+  </thread>
+

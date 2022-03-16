@@ -1,0 +1,152 @@
+  <thread>
+    <name>Location of August 30-31 1999 Face to Face</name>
+    <listno>043-10248963</listno>
+    <DOC>
+      <Received>Thu Jul 15 19:40:16 -0700 1999</Received>
+      <From>Donald E. Eastlake 3rd &lt;dee3@torque.pothole.com&gt;</From>
+      <To>w3c-ietf-xmldsig@w3.org</To>
+      <Subject>Location of August 30-31 1999 Face to Face</Subject>
+      <Text>
+        <Sent id="1.1"> <Topic label=Locations>Having not heard from anyone else, I am going with the Univ. of Calif. at Irvine locations. </Sent>
+        <Sent id="1.2"> <Topic label=Locations>Further logistic information will be posted as soon as it is available. 
+</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Thu Jul 15 20:18:06 -0700 1999</Received>
+      <From>Barb Fox (Exchange) &lt;bfox@Exchange.Microsoft.com&gt;</From>
+      <To>"'Donald E. Eastlake 3rd'" &lt;dee3@torque.pothole.com&gt; ,w3c-ietf-xmldsig@w3.org</To>
+      <Subject>RE: Location of August 30-31 1999 Face to Face</Subject>
+      <Text>
+        <Sent id="2.1"> <Topic label=Locations>Sorry, I thought we had until the end of the week. </Sent>
+        <Sent id="2.2"> <Topic label=Locations>I can offer to hold the meeting here at Microsoft if the wg prefers Seattle at that time. </Sent>
+        <Sent id="2.3"> <Topic label=Locations>Yes, the sun has been known to shine here in August : - ) </Sent>
+        <Sent id="2.4"> <Topic label=Locations>Either location is OK with me btw. 
+</Sent>
+        <Sent id="2.7"> <Topic label=Locations>&gt; Having not heard from anyone else, I am going with the Univ. of Calif. at Irvine locations. </Sent>
+        <Sent id="2.8"> <Topic label=Locations>&gt; Further logistic information will be posted as soon as it is available. 
+</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Jul 16 09:45:52 -0700 1999</Received>
+      <From>Mark Bartel &lt;mbartel@thistle.ca&gt;</From>
+      <To>"'w3c-ietf-xmldsig@w3.org'" &lt;w3c-ietf-xmldsig@w3.org&gt;</To>
+      <Subject>RE: Location of August 30-31 1999 Face to Face</Subject>
+      <Text>
+        <Sent id="3.1"> <Topic label=Locations> Has the decision been made, or should I express my preference for Seattle? :) 
+</Sent>
+        <Sent id="3.4"> <Topic label=Locations>&gt; Sorry, I thought we had until the end of the week. </Sent>
+        <Sent id="3.5"> <Topic label=Locations>&gt; I can offer to hold the meeting here at Microsoft if the wg prefers Seattle at that time. </Sent>
+        <Sent id="3.6"> <Topic label=Locations>&gt; Yes, the sun has been known to shine here in August : - ) </Sent>
+        <Sent id="3.7"> <Topic label=Locations>&gt; Either location is OK with me btw. 
+</Sent>
+</Sent>
+        <Sent id="3.10"> <Topic label=Locations>&gt;&gt; Having not heard from anyone else, I am going with the Univ. of Calif. at Irvine locations. </Sent>
+        <Sent id="3.11"> <Topic label=Locations>&gt;&gt; Further logistic information will be posted as soon as it is available. 
+</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Jul 19 10:10:20 -0700 1999</Received>
+      <From>Peter Lipp &lt;Peter.Lipp@iaik.at&gt;</From>
+      <To>&lt;w3c-ietf-xmldsig@w3.org&gt;</To>
+      <Subject>AW: Location of August 30-31 1999 Face to Face</Subject>
+      <Text>
+        <Sent id="4.1"> <Topic label=Locations>&gt; Has the decision been made, or should I express my preference for Seattle? 
+</Sent>
+        <Sent id="4.2"> <Topic label=Locations>Only if we can go to a certain shop, Barb knows what I am talking about :-) 
+</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Jul 19 10:45:55 -0700 1999</Received>
+      <From>Barb Fox (Exchange) &lt;bfox@Exchange.Microsoft.com&gt;</From>
+      <To>"'Peter Lipp'" &lt;Peter.Lipp@iaik.at&gt; ,w3c-ietf-xmldsig@w3.org</To>
+      <Subject>RE: Location of August 30-31 1999 Face to Face</Subject>
+      <Text>
+        <Sent id="5.1"> <Topic label=Locations>I'll check into that Peter : - ) 
+</Sent>
+        <Sent id="5.4"> <Topic label=Locations>&gt;&gt; Has the decision been made, or should I express my preference for Seattle? 
+</Sent>
+        <Sent id="5.5"> <Topic label=Locations>&gt; Only if we can go to a certain shop, Barb knows what I am talking about :-) 
+</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Jul 19 11:19:53 -0700 1999</Received>
+      <From>dee3@us.ibm.com &lt;dee3@us.ibm.com&gt;</From>
+      <To>"'w3c-ietf-xmldsig@w3.org'" &lt;w3c-ietf-xmldsig@w3.org&gt;</To>
+      <Subject>RE: Location of August 30-31 1999 Face to Face</Subject>
+      <Text>
+        <Sent id="6.1"> <Topic label=Locations>There has been very little comment either way on this at the meeting or on the list. </Sent>
+        <Sent id="6.2"> <Topic label=Locations>The problem is that W3C rules require 6 weeks notice of meetings which I believe applies to time and location. </Sent>
+        <Sent id="6.3"> <Topic label=Locations>Assuming this is true, I think we have to go with the UC Irvine location unless we want to postpone the meeting.... 
+</Sent>
+        <Sent id="6.9"> <Topic label=Locations>&gt; Has the decision been made, or should I express my preference for Seattle? :) 
+</Sent>
+        <Sent id="6.12"> <Topic label=Locations>&gt;&gt; Sorry, I thought we had until the end of the week. </Sent>
+        <Sent id="6.13"> <Topic label=Locations>&gt;&gt; I can offer to hold the meeting here at Microsoft if the wg prefers Seattle at that time. </Sent>
+        <Sent id="6.14"> <Topic label=Locations>&gt;&gt; Yes, the sun has been known to shine here in August : - ) </Sent>
+        <Sent id="6.15"> <Topic label=Locations>&gt;&gt; Either location is OK with me btw. 
+</Sent>
+        <Sent id="6.18"> <Topic label=Locations>&gt;&gt;&gt; Having not heard from anyone else, I am going with the Univ. of Calif. at Irvine locations. </Sent>
+        <Sent id="6.19"> <Topic label=Locations>&gt;&gt;&gt; Further logistic information will be posted as soon as it is available. 
+</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Jul 19 11:53:55 -0700 1999</Received>
+      <From>Todd S. Glassey &lt;Todd.Glassey@www.meridianus.com&gt;</From>
+      <To>"Barb Fox \(Exchange\)" &lt;bfox@Exchange.Microsoft.com&gt; ,"'Peter Lipp'" &lt;Peter.Lipp@iaik.at&gt; , &lt;w3c-ietf-xmldsig@w3.org&gt;</To>
+      <Subject>Re: Location of August 30-31 1999 Face to Face</Subject>
+      <Text>
+        <Sent id="7.1"> <Topic label=Locations>Pesonally - If we are going to do "it" in Washington State, My vote is for Seattle rather than Redmond, unless we are are all camping at "Bill's new place on the lake" and you are making arrangements to have us shuttle in from SeaTac to the private Microsoft Airport. </Sent>
+        <Sent id="7.2"> <Topic label=Locations>Staging in Seattle saves the bulk of us the drive out to Redmond. 
+</Sent>
+        <Sent id="7.3"> <Topic label=Locations>I myself would rather see us there staying at someplace like the Edgewater than in Redmond by far. </Sent>
+        <Sent id="7.4"> <Topic label=Locations>It's really easier to get to and has more night-life, etc etc etc. </Sent>
+        <Sent id="7.5"> <Topic label=Locations>A number of us have personal experience of the Edgewater's facilities from one of last year's ISC Meetings we had there. 
+</Sent>
+        <Sent id="7.6"> <Topic label=Locations>Very good site and lots of reasoably priced facilities in the area and Pikes Market Arcade Area is a hop, skip, and a jump away. 
+</Sent>
+        <Sent id="7.7"> <Topic label=Locations>Otherwise, by my vote - Sourthern California is fine by me. 
+</Sent>
+        <Sent id="7.10"> <Topic label=Locations>&gt; I'll check into that Peter : - ) 
+</Sent>
+        <Sent id="7.13"> <Topic label=Locations>&gt;&gt;&gt; Has the decision been made, or should I express my preference for Seattle? 
+</Sent>
+        <Sent id="7.14"> <Topic label=Locations>&gt;&gt; Only if we can go to a certain shop, Barb knows what I am talking about :-) 
+</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Jul 19 11:55:20 -0700 1999</Received>
+      <From>Barb Fox (Exchange) &lt;bfox@Exchange.Microsoft.com&gt;</From>
+      <To>"'Todd S. Glassey'" &lt;Todd.Glassey@www.meridianus.com&gt; ,"Barb Fox (Exchange)" &lt;bfox@Exchange.Microsoft.com&gt; ,"'Peter Lipp'" &lt;Peter.Lipp@iaik.at&gt; ,w3c-ietf-xmldsig@w3.org</To>
+      <Subject>RE: Location of August 30-31 1999 Face to Face</Subject>
+      <Text>
+        <Sent id="8.1"> <Topic label=Locations>I think Don's post just closed the issue. </Sent>
+        <Sent id="8.2"> <Topic label=Locations>It's in Irvine. 
+</Sent>
+        <Sent id="8.4"> <Topic label=Locations>&gt; Pesonally - If we are going to do "it" in Washington State, My vote is for Seattle rather than Redmond, unless we are are all camping at "Bill's new place on the lake" and you are making arrangements to have us shuttle in from SeaTac to the private Microsoft Airport. </Sent>
+        <Sent id="8.5"> <Topic label=Locations>&gt; Staging in Seattle saves the bulk of us the drive out to Redmond. 
+</Sent>
+        <Sent id="8.6"> <Topic label=Locations>&gt; I myself would rather see us there staying at someplace like the Edgewater than in Redmond by far. </Sent>
+        <Sent id="8.7"> <Topic label=Locations>&gt; It's really easier to get to and has more night-life, etc etc etc. </Sent>
+        <Sent id="8.8"> <Topic label=Locations>&gt; A number of us have personal experience of the Edgewater's facilities from one of last year's ISC Meetings we had there. 
+</Sent>
+        <Sent id="8.9"> <Topic label=Locations>&gt; Very good site and lots of reasoably priced facilities in the area and Pikes Market Arcade Area is a hop, skip, and a jump away. 
+</Sent>
+        <Sent id="8.10"> <Topic label=Locations>&gt; Otherwise, by my vote - Sourthern California is fine by me. 
+</Sent>
+        <Sent id="8.13"> <Topic label=Locations>&gt;&gt; I'll check into that Peter : - ) 
+</Sent>
+        <Sent id="8.16"> <Topic label=Locations>&gt;&gt;&gt;&gt; Has the decision been made, or should I express my preference for Seattle? 
+</Sent>
+        <Sent id="8.17"> <Topic label=Locations>&gt;&gt;&gt; Only if we can go to a certain shop, Barb knows what I am talking about :-) 
+</Sent>
+      </Text>
+    </DOC>
+  </thread>
+ 

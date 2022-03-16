@@ -1,0 +1,84 @@
+  <thread>
+    <name>Mozilla 1.2 and keyboard to activate links?</name>
+    <listno>078-15693133</listno>
+    <DOC>
+      <Received>Fri Sep 27 13:33:57 -0700 2002</Received>
+      <From>jonathan chetwynd &lt;j.chetwynd@btinternet.com&gt;</From>
+      <To>"WAI List \(E-mail\)" &lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>Mozilla 1.2 and keyboard to activate links?</Subject>
+      <Text>
+        <Sent id="1.1"><Topic label=Mozilla's new functions>Peepo has advocated for some years the use of the keyboard as means to select links. </Sent>
+        <Sent id="1.2"><Topic label=Mozilla's new functions>In the latest mozilla browser, when you type a letter, except in a text entry box, it cycles through links that have that letter in their text. </Sent>
+        <Sent id="1.3"><Topic label=Mozilla's new functions>it seems slightly buggy, but what do you think? </Sent>
+        <Sent id="1.4"><Topic label=How it affects coding>(course it screws my coding right and proper) </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Sep 27 17:21:38 -0700 2002</Received>
+      <From>iris &lt;iristopa@yahoo.com&gt;</From>
+      <To>w3c-wai-ig@w3.org</To>
+      <Subject>Re: Mozilla 1.2 and keyboard to activate links?</Subject>
+      <Text>
+        <Sent id="2.1">&amp;gt; Peepo has advocated for some years the use of the keyboard as means to select links. </Sent>
+        <Sent id="2.2">&amp;gt; In the latest mozilla browser, when you type a letter, except in a text entry box, it cycles through links that have that letter in their text. </Sent>
+        <Sent id="2.3">&amp;gt; it seems slightly buggy, but what do you think? </Sent>
+        <Sent id="2.4"><Topic label=Mozilla's new functions>i found out about this only a few days ago and have been using the so-called 'typeaheadfind' since then quite a lot. </Sent>
+        <Sent id="2.5"><Topic label=Mozilla's new functions>i haven't found it buggy at all and absolutely love it. </Sent>
+        <Sent id="2.6"><Topic label=Mozilla's new functions>it's more a Find function then a 'cycling through links' function. </Sent>
+        <Sent id="2.7"><Topic label=Mozilla's new functions>with the focus on the page you just type a word (or beginning of it) and mozilla jumps to that word. </Sent>
+        <Sent id="2.8"><Topic label=Mozilla's new functions>F3 finds the next instance. </Sent>
+        <Sent id="2.9"><Topic label=Mozilla's new functions>it first only looks at links but if you type a '/' (slash) before the word it searches the whole text. </Sent>
+        <Sent id="2.10"><Topic label=Mozilla's new functions>it really just saves you bringing up that cumbersome Find dialogue box. </Sent>
+        <Sent id="2.11"><Topic label=Mozilla's new functions>i don't think it really works for cycling through links. </Sent>
+        <Sent id="2.12"><Topic label=Mozilla's new functions>the tab key works better for that. </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Sep 27 17:24:14 -0700 2002</Received>
+      <From>iris &lt;iristopa@yahoo.com&gt;</From>
+      <To>w3c-wai-ig@w3.org</To>
+      <Subject>Re: Mozilla 1.2 and keyboard to activate links?</Subject>
+      <Text>
+        <Sent id="3.1">&amp;gt; (course it screws my coding right and proper) </Sent>
+        <Sent id="3.2"><Topic label=How it affects coding>how does it screw your coding? </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Sep 27 17:33:18 -0700 2002</Received>
+      <From>Timothy J. Luoma &lt;lists@tntluoma.com&gt;</From>
+      <To>w3c-wai-ig@w3.org</To>
+      <Subject>Re: Mozilla 1.2 and keyboard to activate links?</Subject>
+      <Text>
+        <Sent id="4.1">&amp;gt; i found out about this only a few days ago and have been using the so-called 'typeaheadfind' since then quite a lot. </Sent>
+        <Sent id="4.2">&amp;gt; i haven't found it buggy at all and absolutely love it. </Sent>
+        <Sent id="4.3"><Topic label=Opera's similar function>Indeed.... </Sent>
+        <Sent id="4.4"><Topic label=Opera's similar function>I have loved Opera's &amp;quot;inline find&amp;quot; for a long time. </Sent>
+        <Sent id="4.5"><Topic label=Opera's similar function>Sounds like Moz has copped another Opera feature ;-) </Sent>
+        <Sent id="4.7">&amp;gt; i don't think it really works for cycling through links. </Sent>
+        <Sent id="4.8">&amp;gt; the tab key works better for that. </Sent>
+        <Sent id="4.9"><Topic label=Opera's similar function>I still haven't found anything that matches Opera's CONTROL+J (which will list all links on the page). </Sent>
+        <Sent id="4.10"><Topic label=Opera's similar function>It also gives you a quick method to see if your links will make sense when read out of context. </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Sat Sep 28 03:17:08 -0700 2002</Received>
+      <From>jonathan chetwynd &lt;j.chetwynd@btinternet.com&gt;</From>
+      <To>&lt;lists@tntluoma.com&gt; , &lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>Re: Mozilla 1.2 and keyboard to activate links?</Subject>
+      <Text>
+        <Sent id="5.1"><Topic label=Mozilla's new functions>well those are some of the positives, how about disabling for those who are hyperactive, and just cannot stop fiddling with the keyboard? </Sent>
+        <Sent id="5.2"><Topic label=Mozilla's new functions>its buggy in the sense that for instance 'k' words aren't just those that start with the letter k but also those that include the letter k. </Sent>
+        <Sent id="5.3"><Topic label=Mozilla's new functions>I'd expect it to have a few others besides. </Sent>
+        <Sent id="5.5">&amp;gt;&amp;gt; i found out about this only a few days ago and have been using the so-called 'typeaheadfind' since then quite a lot. </Sent>
+        <Sent id="5.6">&amp;gt;&amp;gt; i haven't found it buggy at all and absolutely love it. </Sent>
+        <Sent id="5.7">&amp;gt; Indeed.... </Sent>
+        <Sent id="5.8">&amp;gt; I have loved Opera's &amp;quot;inline find&amp;quot; for a long time. </Sent>
+        <Sent id="5.9">&amp;gt; Sounds like Moz has copped another Opera feature ;-) </Sent>
+        <Sent id="5.11">&amp;gt;&amp;gt; i don't think it really works for cycling through links. </Sent>
+        <Sent id="5.12">&amp;gt;&amp;gt; the tab key works better for that. </Sent>
+        <Sent id="5.13">&amp;gt; I still haven't found anything that matches Opera's CONTROL+J (which will list all links on the page). </Sent>
+        <Sent id="5.14">&amp;gt; It also gives you a quick method to see if your links will make sense when read out of context. </Sent>
+      </Text>
+    </DOC>
+  </thread>
+

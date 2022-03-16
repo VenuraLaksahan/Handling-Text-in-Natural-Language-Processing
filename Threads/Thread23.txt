@@ -1,0 +1,85 @@
+  <thread>
+    <name>Radio transcripts</name>
+    <listno>074-14150913</listno>
+    <DOC>
+      <Received>Fri Jul 09 01:00:58 -0700 1999</Received>
+      <From>Jason White &lt;jasonw@ariel.ucs.unimelb.edu.au&gt;</From>
+      <To>WAI Interest Group &lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>Radio transcripts</Subject>
+      <Text>
+        <Sent id="1.1"><Topic label=Radio stations which provide transcripts>I recently discovered that ABC Radio National here in Australia (http://www.abc.net.au/rn/) offers transcripts of certain of its programmes via the web. </Sent>
+        <Sent id="1.2"><Topic label=Accessibility of those sites>I haven't checked the accessibility of the site, and, as I understand it, the transcripts appear several days after the programmes themselves have been broadcast. </Sent>
+        <Sent id="1.3"><Topic label=Radio stations which provide transcripts>Are other radio stations with a presence on the web adopting similar policies?</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Jul 09 18:19:59 -0700 1999</Received>
+      <From>T. V. Raman &lt;raman@Adobe.COM&gt;</From>
+      <To>Jason White &lt;jasonw@ariel.ucs.unimelb.edu.au&gt;</To>
+      <Cc>WAI Interest Group &lt;w3c-wai-ig@w3.org&gt;</Cc>
+      <Subject>Radio transcripts</Subject>
+      <Text>
+        <Sent id="2.1"><Topic label=Radio stations which provide transcripts>more interestingly check out http://www.cnn.com/TRANSCRIPTS </Sent>
+        <Sent id="2.2"><Topic label=Radio stations which provide transcripts>As far as I can tell, it's not linked into their main page yet. </Sent>
+        <Sent id="2.3"><Topic label=Accessibility of those sites>Note that the page is extremely table rich (a euphasism of sorts) </Sent>
+        <Sent id="2.4"><Topic label=Accessibility of those sites>--but emacspeak/w3 should give you good access. </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Sat Jul 10 10:25:35 -0700 1999</Received>
+      <From>pfhyper &lt;pf@pfhyper.com&gt;</From>
+      <To>"Jason White" &lt;jasonw@ariel.ucs.unimelb.edu.au&gt; ,"WAI Interest Group" &lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>Re: Radio transcripts</Subject>
+      <Text>
+        <Sent id="3.1">&amp;gt; I recently discovered that ABC Radio National here in Australia (http://www.abc.net.au/rn/) offers transcripts of certain of its programmes via the web. </Sent>
+        <Sent id="3.2">&amp;gt; I haven't checked the accessibility of the site, and, as I understand it, the transcripts appear several days after the programmes themselves have been broadcast. </Sent>
+        <Sent id="3.3">&amp;gt; Are other radio stations with a presence on the web adopting similar policies? </Sent>
+        <Sent id="3.4"><Topic label=Radio stations which provide transcripts>Public Radio International &amp;amp;lt;http://www.pri.org/&amp;amp;gt; offers RealAudio transcripts of at least some of their shows. </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Sun Jul 11 20:03:33 -0700 1999</Received>
+      <From>Jason White &lt;jasonw@ariel.ucs.unimelb.edu.au&gt;</From>
+      <To>WAI Interest Group &lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>Re: Radio transcripts</Subject>
+      <Text>
+        <Sent id="4.1"><Topic label=Accessibility of those sites>The central point here is that providing transcripts of audio content is a requirement under the guidelines, so that if an audio stream is provided, transcripts must also be made available.</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Jul 12 16:36:25 -0700 1999</Received>
+      <From>Michael Burks &lt;mburks952@worldnet.att.net&gt;</From>
+      <To>"WAI Interest Group" &lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>Color Blindness</Subject>
+      <Text>
+        <Sent id="5.1"><Topic label=Sites to learn about color blindness accessibity>All, where is the best place to find our specifics about the issues involved with web pages and color blindness? </Sent>
+        <Sent id="5.3"><Topic label=Sites to learn about color blindness accessibity>Does anyone know? </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Jul 12 16:56:59 -0700 1999</Received>
+      <From>Kynn Bartlett &lt;kynn-hwg@idyllmtn.com&gt;</From>
+      <To>&lt;mburks952@worldnet.att.net&gt;</To>
+      <Cc>"WAI Interest Group" &lt;w3c-wai-ig@w3.org&gt;</Cc>
+      <Subject>Re: Color Blindness</Subject>
+      <Text>
+        <Sent id="6.1">&amp;gt; All, where is the best place to find our specifics about the issues involved with web pages and color blindness? </Sent>
+        <Sent id="6.2"><Topic label=Sites to learn about color blindness accessibity>We have three links listed on the AWARE Center site, on the &amp;quot;tips&amp;quot; page: </Sent>
+        <Sent id="6.4"><Topic label=Sites to learn about color blindness accessibity>But I would love to have more. </Sent>
+        <Sent id="6.5"><Topic label=Sites to learn about color blindness accessibity>Diane Wilson's site (linked from the page above) is a nice start: </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Jul 12 18:09:58 -0700 1999</Received>
+      <From>Michael Burks &lt;mburks952@worldnet.att.net&gt;</From>
+      <To></To>
+      <Cc>"WAI Interest Group" &lt;w3c-wai-ig@w3.org&gt;</Cc>
+      <Subject>RE: Color Blindness</Subject>
+      <Text>
+        <Sent id="7.1"><Topic label=Sites to learn about color blindness accessibity>All, I want to thank everyone for their quick response to my question....</Sent>
+        <Sent id="7.3"><Topic label=Sites to learn about color blindness accessibity>It is greatly appreciated and is going to help out quite a bit. </Sent>
+        <Sent id="7.4"><Topic label=Sites to learn about color blindness accessibity>Thank you again for you help. </Sent>
+      </Text>
+    </DOC>
+  </thread>
+

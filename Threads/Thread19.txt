@@ -1,0 +1,84 @@
+  <thread>
+    <name>General Rule - Do not forbid - only guide except for safety</name>
+    <listno>068-16207900</listno>
+    <DOC>
+      <Received>Sun Mar 25 16:41:55 -0800 2001</Received>
+      <From>Gregg Vanderheiden &lt;gv@trace.wisc.edu&gt;</From>
+      <To>"w3c-waI-gl@w3. org (E-mail)" &lt;w3c-waI-gl@w3.org&gt;</To>
+      <Subject>General Rule - Do not forbid - only guide except for safety</Subject>
+      <Text>
+        <Sent id="1.1"><Topic label=Need to avoid Design debates in guidelines>I am not sure this will hold but </Sent>
+        <Sent id="1.2"><Topic label=Need to avoid Design debates in guidelines>As a general rule.... </Sent>
+        <Sent id="1.3"><Topic label=Need to avoid Design debates in guidelines>I think we should try to design guidelines that do not forbid anything - but </Sent>
+        <Sent id="1.4"><Topic label=Need to avoid Design debates in guidelines>rather tell people how to do things so that they will be accessible. </Sent>
+        <Sent id="1.5"><Topic label=Need to avoid Design debates in guidelines>When the next version comes out next week - we should look through it to see how it looks in this regard. </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Sun Mar 25 21:51:17 -0800 2001</Received>
+      <From>Kynn Bartlett &lt;kynn-edapta@idyllmtn.com&gt;</From>
+      <To>&lt;gv@trace.wisc.edu&gt;</To>
+      <Cc>"w3c-waI-gl@w3. org (E-mail)" &lt;w3c-waI-gl@w3.org&gt;</Cc>
+      <Subject>Re: General Rule - Do not forbid - only guide except for safety</Subject>
+      <Text>
+        <Sent id="2.2">&amp;amp;gt; I am not sure this will hold but </Sent>
+        <Sent id="2.3">&amp;amp;gt; As a general rule.... </Sent>
+        <Sent id="2.4">&amp;amp;gt; I think we should try to design guidelines that do not forbid anything - but </Sent>
+        <Sent id="2.5">&amp;amp;gt; rather tell people how to do things so that they will be accessible. </Sent>
+        <Sent id="2.6"><Topic label=Need to avoid Design debates in guidelines>I agree with this approach. Consistent with this approach, I feel, is a methodology of &amp;quot;guiding&amp;quot; which says &amp;quot;well, you -can- do it, but to do it right you have to do (x), (y), and (z), and that will still mean you're losing out on (a), (b), and (c), but if you REALLY REALLY WANT TO, hey, it's your choice.&amp;quot; </Sent>
+        <Sent id="2.11"><Topic label=Need to avoid Design debates in guidelines>This isn't forbidding anything -- but it's making it clear that there are definite problems with certain approaches, and if someone chooses to follow that path, they at least will be aware of the consequences of their actions. </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Mar 26 00:19:22 -0800 2001</Received>
+      <From>Jason White &lt;jasonw@ariel.ucs.unimelb.edu.au&gt;</From>
+      <To>Web Content Accessibility Guidelines &lt;w3c-wai-gl@w3.org&gt;</To>
+      <Subject>Re: General Rule - Do not forbid - only guide except for safety</Subject>
+      <Text>
+        <Sent id="3.1"><Topic label=Need to avoid Design debates in guidelines>I think even WCAG 1.0 can be regarded as consistent with this method of specifying guidelines, in that the word &amp;quot;avoid&amp;quot; was deliberately chosen to imply the existence of alternative, more accessible, means of achieving the same objective. 
+        <Sent id="3.2"><Topic label=Need to avoid Design debates in guidelines>WCAG 2.0 should, however, make this point clearer, to avoid (pun intended) giving the impression that there are prohibitions in the guidelines that would limit the capacity of content creators to design web sites that fulfill their respective purposes.</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Mar 26 20:03:39 -0800 2001</Received>
+      <From>Anne Pemberton &lt;apembert@erols.com&gt;</From>
+      <To>&lt;gv@trace.wisc.edu&gt; ,"w3c-waI-gl@w3. org (E-mail)" &lt;w3c-waI-gl@w3.org&gt;</To>
+      <Subject>Re: General Rule - Do not forbid - only guide except for safety</Subject>
+      <Text>
+        <Sent id="4.1"><Topic label=Need to avoid Design debates in guidelines>Gregg, You make an excellent point! </Sent>
+        <Sent id="4.3"><Topic label=Need to avoid Design debates in guidelines>As soon as you &amp;quot;forbid&amp;quot; something, you find out that some disabled group at an opposite end of some spectrum &amp;quot;needs&amp;quot; what you've forbidden ...</Sent>
+		<Sent id="4.5"><Topic label=Need to avoid Design debates in guidelines>We need to explain the consequences, and let the author decide what is most appropriate for his/her site. </Sent>
+        <Sent id="4.9">&amp;amp;gt; I am not sure this will hold but </Sent>
+        <Sent id="4.10">&amp;amp;gt; As a general rule.... </Sent>
+        <Sent id="4.11">&amp;amp;gt; I think we should try to design guidelines that do not forbid anything - but </Sent>
+        <Sent id="4.12">&amp;amp;gt; rather tell people how to do things so that they will be accessible. </Sent>
+        <Sent id="4.14">&amp;amp;gt; When the next version comes out next week - we should look through it to see how it looks in this regard. </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Mar 26 23:37:08 -0800 2001</Received>
+      <From>Kynn Bartlett &lt;kynn-edapta@idyllmtn.com&gt;</From>
+      <To>Anne Pemberton &lt;apembert@erols.com&gt; , &lt;gv@trace.wisc.edu&gt; ,"w3c-waI-gl@w3. org (E-mail)" &lt;w3c-waI-gl@w3.org&gt;</To>
+      <Subject>Re: General Rule - Do not forbid - only guide except for safety</Subject>
+      <Text>
+        <Sent id="5.2">&amp;amp;gt; Gregg, You make an excellent point! </Sent>
+        <Sent id="5.6">&amp;amp;gt; As soon as you &amp;quot;forbid&amp;quot; something, you find out that some disabled group at an opposite end of some spectrum &amp;quot;needs&amp;quot; what you've forbidden ...</Sent>
+        <Sent id="5.9">&amp;amp;gt; We need to explain the consequences, and let the author decide what is most appropriate for his/her site. </Sent>
+        <Sent id="5.11"><Topic label=Relative needs of different groups>Excellent point -- the body of knowledge for disability access considerations, beyond those of blind people (which are generally well-explored these days), is pretty skimpy. </Sent>
+		<Sent id="5.14"><Topic label=Relative needs of different groups>We're -still- in the exploration/discovery process of &amp;quot;what works&amp;quot;, and as we see more solutions like Reef's -- which allow you to build an interface for ONE audience without fearing interference with OTHER audiences' interfaces -- we will encounter more and more solutions which will work for some people and not work for others. </Sent>
+        <Sent id="5.19"><Topic label=Need to avoid Design debates in guidelines>Forbidding them outright will cause a lot of problems, in the same way that alternate interfaces stated &amp;quot;as a last resort&amp;quot; cause problems when usable, accessible design is your &amp;quot;first resort&amp;quot;! </Sent>
+        <Sent id="5.22"><Topic label=Need to avoid Design debates in guidelines>Absolutes should be avoided, always. </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Tue Mar 27 12:03:35 -0800 2001</Received>
+      <From>William Loughborough &lt;love26@gorge.net&gt;</From>
+      <To>Kynn Bartlett &lt;kynn-edapta@idyllmtn.com&gt; , Anne Pemberton &lt;apembert@erols.com&gt; , &lt;gv@trace.wisc.edu&gt; ,"w3c-waI-gl@w3. org (E-mail)" &lt;w3c-waI-gl@w3.org&gt;</To>
+      <Subject>Re: General Rule - Do not forbid - only guide except for safety</Subject>
+      <Text>
+        <Sent id="6.2">&amp;amp;gt; Absolutes should be avoided, always. </Sent>
+        <Sent id="6.3"><Topic label=Need to avoid Design debates in guidelines>Absolutely! </Sent>
+      </Text>
+    </DOC>
+  </thread>
+

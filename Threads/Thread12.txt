@@ -1,0 +1,133 @@
+  <thread>
+    <name>better Australian time for regular teleconferences</name>
+    <listno>060-0021651</listno>
+    <DOC>
+      <Received>Wed Jun 05 09:44:23 -0700 2002</Received>
+      <From>Jutta Treviranus &lt;jutta.treviranus@utoronto.ca&gt;</From>
+      <To>w3c-wai-au@w3.org</To>
+      <Subject>better Australian time for regular teleconferences</Subject>
+      <Text>
+        <Sent id="1.1"><Topic label=Finding a new time for the meetings>Liddy has been admirably getting up at 2am on a regular basis to join our call. </Sent>
+        <Sent id="1.2"><Topic label=Finding a new time for the meetings>I don't think we should continue to ask her to do that. </Sent>
+        <Sent id="1.3"><Topic label=Finding a new time for the meetings>I would like to find an alternative time that works for everyone that regularly attends the teleconference. </Sent>
+        <Sent id="1.4"><Topic label=Finding a new time for the meetings>This needs to take into account European time, Australian time and both east and west coast North American time. </Sent>
+        <Sent id="1.5"><Topic label=Finding a new time for the meetings>How is everyone with 4:00pm EDT on Monday, Tuesday or Wednesday? </Sent>
+        <Sent id="1.6"><Topic label=Finding a new time for the meetings>This would make it 6:00am in Australia and 9:00 pm in Europe. </Sent>
+        <Sent id="1.7"><Topic label=Finding a new time for the meetings>Or does anyone have an alternative suggestion? </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Jun 05 10:07:16 -0700 2002</Received>
+      <From>Jan Richards &lt;jan.richards@utoronto.ca&gt;</From>
+      <To>w3c-wai-au@w3.org</To>
+      <Subject>Re: better Australian time for regular teleconferences</Subject>
+      <Text>
+        <Sent id="2.1"><Topic label=Finding a new time for the meetings>According to the International Meeting Planner, Jutta's suggestion of 4pm EST is pretty good </Sent>
+        <Sent id="2.2"><Topic label=Finding a new time for the meetings>- although it is actually 10pm in Europe. </Sent>
+        <Sent id="2.3"><Topic label=Finding a new time for the meetings>3pm EST would be 5am in Australia and 9pm in Europe. </Sent>
+        <Sent id="2.6">&amp;gt; How is everyone with 4:00pm EDT on Monday, Tuesday or Wednesday? </Sent>
+        <Sent id="2.7">&amp;gt; This would make it 6:00am in Australia and 9:00 pm in Europe. </Sent>
+        <Sent id="2.8">&amp;gt; Or does anyone have an alternative suggestion?</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Jun 05 10:59:23 -0700 2002</Received>
+      <From>Liddy Nevile &lt;Liddy.Nevile@motile.net&gt;</From>
+      <To>W3C WAI-AU &lt;w3c-wai-au@w3.org&gt;</To>
+      <Subject>(no subject)</Subject>
+      <Text>
+        <Sent id="3.1"><Topic label=Finding a new time for the meetings>Thank you </Sent>
+        <Sent id="3.2"><Topic label=Finding a new time for the meetings>- I do appreciate this gesture. </Sent>
+        <Sent id="3.3">&amp;gt; How is everyone with 4:00pm EDT on Monday, Tuesday or Wednesday? </Sent>
+        <Sent id="3.4">&amp;gt; This would make it 6:00am in Australia and 9:00 pm in Europe. </Sent>
+        <Sent id="3.5">&amp;gt; Or does anyone have an alternative suggestion? </Sent>
+        <Sent id="3.6"><Topic label=Finding a new time for the meetings>I believe 4.00pm on Tuesday would clash with the IMS meetings, if they continue at that time... </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Jun 05 12:00:25 -0700 2002</Received>
+      <From>Carlos A Velasco &lt;velasco@fit.fraunhofer.de&gt;</From>
+      <To>Jutta Treviranus &lt;jutta.treviranus@utoronto.ca&gt;</To>
+      <Cc>w3c-wai-au@w3.org</Cc>
+      <Subject>Re: better Australian time for regular teleconferences</Subject>
+      <Text>
+        <Sent id="4.1"><Topic label=Finding a new time for the meetings>Hi Jutta, The same issue arose a few weeks ago in the PF group. </Sent>
+        <Sent id="4.3"><Topic label=Finding a new time for the meetings>It is very difficult to find a common time that works for every time zone. </Sent>
+        <Sent id="4.4"><Topic label=Finding a new time for the meetings>10pm Central European Time means I can make some of the calls, but not all of them, but I understand the change. </Sent>
+        <Sent id="4.7">&amp;gt; Liddy has been admirably getting up at 2am on a regular basis to join our call. </Sent>
+        <Sent id="4.8">&amp;gt; I don't think we should continue to ask her to do that. </Sent>
+        <Sent id="4.9">&amp;gt; I would like to find an alternative time that works for everyone that regularly attends the teleconference. </Sent>
+        <Sent id="4.10">&amp;gt; This needs to take into account European time, Australian time and both east and west coast North American time. </Sent>
+        <Sent id="4.11">&amp;gt; How is everyone with 4:00pm EDT on Monday, Tuesday or Wednesday? </Sent>
+        <Sent id="4.12">&amp;gt; This would make it 6:00am in Australia and 9:00 pm in Europe. </Sent>
+        <Sent id="4.13">&amp;gt; Or does anyone have an alternative suggestion? </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Jun 05 13:13:37 -0700 2002</Received>
+      <From>Lou Nell Gerard &lt;louge@microsoft.com&gt;</From>
+      <To>"Jutta Treviranus" &lt;jutta.treviranus@utoronto.ca&gt; , &lt;w3c-wai-au@w3.org&gt;</To>
+      <Subject>RE: better Australian time for regular teleconferences</Subject>
+      <Text>
+        <Sent id="5.1"><Topic label=Finding a new time for the meetings>I hesitate to speak for Heather, but in her absence, the time is do-able here in Pacific time; </Sent>
+        <Sent id="5.2"><Topic label=Finding a new time for the meetings>however, at glancing at her schedule she may have conflicts with this time, at least on Mondays/Wednesdays</Sent>
+        <Sent id="5.3"><Topic label=Finding a new time for the meetings>--Tuesdays look like a 30 minute conflict (at the last 1/2 hour). </Sent>
+        <Sent id="5.4"><Topic label=Finding a new time for the meetings>I don't know if these are times that she can adjust or not. </Sent>
+        <Sent id="5.5"><Topic label=Heather returning>She'll be back and able to speak for her own schedule next week. </Sent>
+        <Sent id="5.6"><Topic label=Finding a new time for the meetings>When did you need to make a firm decision? </Sent>
+        <Sent id="5.10">&amp;gt; Liddy has been admirably getting up at 2am on a regular basis to join our call. </Sent>
+        <Sent id="5.11">&amp;gt; I don't think we should continue to ask her to do that. </Sent>
+        <Sent id="5.12">&amp;gt; I would like to find an alternative time that works for everyone that regularly attends the teleconference. </Sent>
+        <Sent id="5.13">&amp;gt; This needs to take into account European time, Australian time and both east and west coast North American time. </Sent>
+        <Sent id="5.14">&amp;gt; How is everyone with 4:00pm EDT on Monday, Tuesday or Wednesday? </Sent>
+        <Sent id="5.15">&amp;gt; This would make it 6:00am in Australia and 9:00 pm in Europe. </Sent>
+        <Sent id="5.16">&amp;gt; Or does anyone have an alternative suggestion? </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Jun 05 18:23:35 -0700 2002</Received>
+      <From>Liddy Nevile &lt;Liddy.Nevile@motile.net&gt;</From>
+      <To>W3C WAI-AU &lt;w3c-wai-au@w3.org&gt;</To>
+      <Subject>Re: times</Subject>
+      <Text>
+        <Sent id="6.1"><Topic label=Finding a new time for the meetings>does it help to have different times? </Sent>
+        <Sent id="6.2"><Topic label=Finding a new time for the meetings>I will be in Europe for a few weeks soon and so we could have meeting times that suit the meetings </Sent>
+        <Sent id="6.3"><Topic label=Finding a new time for the meetings>- boring but maybe better for actual events? </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Thu Jun 06 15:03:29 -0700 2002</Received>
+      <From>Doug Grude &lt;dgrude@adobe.com&gt;</From>
+      <To>Jutta Treviranus &lt;jutta.treviranus@utoronto.ca&gt; ,w3c-wai-au@w3.org</To>
+      <Subject>Re: better Australian time for regular teleconferences</Subject>
+      <Text>
+        <Sent id="7.1"><Topic label=Finding a new time for the meetings>I'm comfortable with whatever time is set and will remain flexible, even if it's 5:00am PDT. </Sent>
+        <Sent id="7.3">&amp;gt; Liddy has been admirably getting up at 2am on a regular basis to join our call. </Sent>
+        <Sent id="7.4">&amp;gt; I don't think we should continue to ask her to do that. </Sent>
+        <Sent id="7.5">&amp;gt; I would like to find an alternative time that works for everyone that regularly attends the teleconference. </Sent>
+        <Sent id="7.6">&amp;gt; This needs to take into account European time, Australian time and both east and west coast North American time. </Sent>
+        <Sent id="7.7">&amp;gt; How is everyone with 4:00pm EDT on Monday, Tuesday or Wednesday? </Sent>
+        <Sent id="7.8">&amp;gt; This would make it 6:00am in Australia and 9:00 pm in Europe. </Sent>
+        <Sent id="7.9">&amp;gt; Or does anyone have an alternative suggestion? </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Tue Jun 11 18:27:49 -0700 2002</Received>
+      <From>Heather Swayne &lt;hswayne@windows.microsoft.com&gt;</From>
+      <To>"Jutta Treviranus" &lt;jutta.treviranus@utoronto.ca&gt; , &lt;w3c-wai-au@w3.org&gt;</To>
+      <Subject>RE: better Australian time for regular teleconferences</Subject>
+      <Text>
+        <Sent id="8.1"><Topic label=Finding a new time for the meetings>Monday, Tuesday, or Wednesday at 4:00 pm EST would work for me but Tuesday or Wednesday would be better. </Sent>
+        <Sent id="8.2"><Topic label=Heather returning>Fyi, I'm back but Lou Nell is going to sit in on the next call for me -- </Sent>
+        <Sent id="8.3"><Topic label=Finding a new time for the meetings>It's still Monday at 12:00 EST right? </Sent>
+        <Sent id="8.6">&amp;gt; Liddy has been admirably getting up at 2am on a regular basis to join our call. </Sent>
+        <Sent id="8.7">&amp;gt; I don't think we should continue to ask her to do that. </Sent>
+        <Sent id="8.8">&amp;gt; I would like to find an alternative time that works for everyone that regularly attends the teleconference. </Sent>
+        <Sent id="8.9">&amp;gt; This needs to take into account European time, Australian time and both east and west coast North American time. </Sent>
+        <Sent id="8.10">&amp;gt; How is everyone with 4:00pm EDT on Monday, Tuesday or Wednesday? </Sent>
+        <Sent id="8.11">&amp;gt; This would make it 6:00am in Australia and 9:00 pm in Europe. </Sent>
+        <Sent id="8.12">&amp;gt; Or does anyone have an alternative suggestion? </Sent>
+      </Text>
+    </DOC>
+  </thread>
+

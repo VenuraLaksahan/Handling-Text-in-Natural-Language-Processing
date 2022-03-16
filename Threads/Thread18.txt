@@ -1,0 +1,113 @@
+  <thread>
+    <name>AU WG joining us for an afternoon at F2F in Bristol?</name>
+    <listno>067-11978590</listno>
+    <DOC>
+      <Received>Tue Aug 01 16:18:40 -0700 2000</Received>
+      <From>Wendy A Chisholm &lt;wendy@w3.org&gt;</From>
+      <To>w3c-wai-gl@w3.org</To>
+      <Subject>AU WG joining us for an afternoon at F2F in Bristol?</Subject>
+      <Text>
+        <Sent id="1.1"><Topic label=Details of Bristol meeting>We are moving forward with holding a face2face meeting in Bristol, England 5 and 6 October. </Sent>
+        <Sent id="1.2"><Topic label=Revision of WCAG>It has been proposed that the Authoring Tool Working Group join us to discuss the revision of WCAG on the afternoon of the 6th. </Sent>
+        <Sent id="1.3"><Topic label=Revision of WCAG>How do people feel about this opportunity to discuss the current state of the draft with another working group? </Sent>
+        <Sent id="1.4"><Topic label=Revision of WCAG>Do you feel we will need the full two days to work on the draft? </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Tue Aug 01 18:33:48 -0700 2000</Received>
+      <From>William Loughborough &lt;love26@gorge.net&gt;</From>
+      <To>w3c-wai-gl@w3.org</To>
+      <Subject>Re: AU WG joining us for an afternoon at F2F in Bristol?</Subject>
+      <Text>
+        <Sent id="2.1">&amp;gt; How do people feel about this opportunity to discuss the current state of the draft with another working group? </Sent>
+        <Sent id="2.2">&amp;gt; Do you feel we will need the full two days to work on the draft? </Sent>
+        <Sent id="2.3"><Topic label=Revision of WCAG>WL: I believe that it is mandatory to discuss states of the draft as they are reached to help avoid possible oversights and conflicts. </Sent>
+        <Sent id="2.4"><Topic label=Revision of WCAG>I believe that it will take far more than the two full days to work on the draft and that a meeting involving AU will constitute &amp;quot;working on the draft.&amp;quot; </Sent>
+        <Sent id="2.5"><Topic label=Revision of WCAG>I may be the only one who's on five (count 'em 5) Working Groups and even though there is some personnel overlap, the groups do &amp;quot;feel&amp;quot; different. </Sent>
+        <Sent id="2.6"><Topic label=Details of Bristol meeting>It (Bristol) is something to look forward to and prepare for. </Sent>
+        <Sent id="2.7"><Topic label=WAI's Success>I hope it works out because the WAI's influence on the overall W3C and the strength-through-diversity we're achieving is a great model for just about everything and it's starting to bear fruit. </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Aug 02 05:15:30 -0700 2000</Received>
+      <From>jonathan chetwynd &lt;jc@signbrowser.org.uk&gt;</From>
+      <To>"w3c" &lt;w3c-wai-gl@w3.org&gt; ,"Wendy A Chisholm" &lt;wendy@w3.org&gt;</To>
+      <Subject>Re: AU WG joining us for an afternoon at F2F in Bristol?</Subject>
+      <Text>
+        <Sent id="3.1"><Topic label=Who will be attending>Could you please advise me who will be attending? </Sent>
+        <Sent id="3.2"><Topic label=Agenda>is there an agenda? </Sent>
+        <Sent id="3.3"><Topic label=Presentation by Jon>would it be helpful, if I was present? </Sent>
+        <Sent id="3.4"><Topic label=Presentation by Jon>with someone with learning difficulties to demonstrate problems regarding web accessibility? </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Aug 02 23:48:26 -0700 2000</Received>
+      <From>Charles McCathieNevile &lt;charles@w3.org&gt;</From>
+      <To>Wendy A Chisholm &lt;wendy@w3.org&gt;</To>
+      <Subject>Re: AU WG joining us for an afternoon at F2F in Bristol?</Subject>
+      <Text>
+        <Sent id="4.1"><Topic label=Revision of WCAG>Suits me... </Sent>
+        <Sent id="4.2"><Topic label=OFF_TOPIC>(But then I have an interest in AU tooo &amp;amp;lt;grin/&amp;amp;gt; ) </Sent>
+        <Sent id="4.4">&amp;gt; We are moving forward with holding a face2face meeting in Bristol, England 5 and 6 October. </Sent>
+        <Sent id="4.5">&amp;gt; It has been proposed that the Authoring Tool Working Group join us to discuss the revision of WCAG on the afternoon of the 6th. </Sent>
+        <Sent id="4.6">&amp;gt; How do people feel about this opportunity to discuss the current state of the draft with another working group? </Sent>
+        <Sent id="4.7">&amp;gt; Do you feel we will need the full two days to work on the draft? </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Thu Aug 03 08:25:55 -0700 2000</Received>
+      <From>Wendy A Chisholm &lt;wendy@w3.org&gt;</From>
+      <To>"jonathan chetwynd" &lt;jc@signbrowser.org.uk&gt; ,"w3c" &lt;w3c-wai-gl@w3.org&gt;</To>
+      <Subject>Re: AU WG joining us for an afternoon at F2F in Bristol?</Subject>
+      <Text>
+        <Sent id="5.1">&amp;gt; Could you please advise me who will be attending? </Sent>
+        <Sent id="5.2"><Topic label=Who will be attending>We have not begun registration, but it appears that the core WCAG members (those who have been attending teleconference calls regularly) will be able to attend the WCAG meetings on Thursday and Friday (5 &amp;amp;amp; 6 October). </Sent>
+        <Sent id="5.3"><Topic label=Who will be attending>I'm not sure who from the Authoring Tool Working Group will join us on Friday afternoon. </Sent>
+        <Sent id="5.4">&amp;gt; is there an agenda? </Sent>
+        <Sent id="5.5"><Topic label=Agenda>There is not yet a detailed agenda, although the main point of the meetings is to discuss the next revision of WCAG. </Sent>
+        <Sent id="5.6">&amp;gt; would it be helpful, if I was present? </Sent>
+        <Sent id="5.7"><Topic label=Presentation by Jon>sure. </Sent>
+        <Sent id="5.8">&amp;gt; with someone with learning difficulties? </Sent>
+        <Sent id="5.9"><Topic label=Presentation by Jon>even better. </Sent>
+        <Sent id="5.10">&amp;gt; to demonstrate problems regarding web accessibility? </Sent>
+        <Sent id="5.11"><Topic label=Presentation by Jon>Sounds interesting! </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Aug 04 05:40:52 -0700 2000</Received>
+      <From>lisa kestenbaum &lt;lisathek@hotmail.com&gt;</From>
+      <To>w3c-wai-gl@w3.org</To>
+      <Subject>Re: AU WG joining us for an afternoon at F2F in Bristol?</Subject>
+      <Text>
+        <Sent id="6.1"><Topic label=Details of Bristol meeting>Hi, I am new to the grope, so I am sorry to ask for repeat information. </Sent>
+        <Sent id="6.2"><Topic label=Details of Bristol meeting>I would like to know the details of this meeting, so that I can try to come. </Sent>
+        <Sent id="6.5">&amp;gt;&amp;gt; Could you please advise me who will be attending? </Sent>
+        <Sent id="6.6">&amp;gt; We have not begun registration, but it appears that the core WCAG members (those who have been attending teleconference calls regularly) will be able to attend the WCAG meetings on Thursday and Friday (5 &amp;amp;amp; 6 October). </Sent>
+        <Sent id="6.7">&amp;gt; I'm not sure who from the Authoring Tool Working Group will join us on Friday afternoon. </Sent>
+        <Sent id="6.8">&amp;gt;&amp;gt; is there an agenda? </Sent>
+        <Sent id="6.9">&amp;gt; There is not yet a detailed agenda, although the main point of the meetings is to discuss the next revision of WCAG. </Sent>
+        <Sent id="6.10">&amp;gt;&amp;gt; would it be helpful, if I was present? </Sent>
+        <Sent id="6.11">&amp;gt; sure. </Sent>
+        <Sent id="6.12">&amp;gt;&amp;gt; with someone with learning difficulties? </Sent>
+        <Sent id="6.13">&amp;gt; even better. </Sent>
+        <Sent id="6.14">&amp;gt;&amp;gt; to demonstrate problems regarding web accessibility? </Sent>
+        <Sent id="6.15">&amp;gt; Sounds interesting! </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Aug 04 22:08:03 -0700 2000</Received>
+      <From>jonathan chetwynd &lt;jc@signbrowser.org.uk&gt;</From>
+      <To>"w3c" &lt;w3c-wai-gl@w3.org&gt; ,"Wendy A Chisholm" &lt;wendy@w3.org&gt;</To>
+      <Subject>Re: AU WG joining us for an afternoon at F2F in Bristol?</Subject>
+      <Text>
+        <Sent id="7.1"><Topic label=Presentation by Jon>Thanks Wendy for this really positive response. </Sent>
+        <Sent id="7.2"><Topic label=Presentation by Jon>I do hope I have not gone overboard with enthusiasm, and realise that you may all have a few other matters arising. </Sent>
+        <Sent id="7.3"><Topic label=Presentation by Jon>I can gassbag on for ever, but would you all (ok most or even some) like to see some commercial graphics/multimedia software designed to be used by Learning Difficulties clients for authoring. </Sent>
+        <Sent id="7.4"><Topic label=Presentation by Jon>I have 2 packages in mind, together with a variety of printed documents, from a number of different sources. </Sent>
+        <Sent id="7.5"><Topic label=Details of Bristol meeting>Also, why Bristol, London is a good bit more convenient for me, and a LD client? </Sent>
+        <Sent id="7.6"><Topic label=Presentation by Jon>I might also be able to organise a visit to a LD day centre for interested parties. </Sent>
+      </Text>
+    </DOC>
+  </thread>
+
+

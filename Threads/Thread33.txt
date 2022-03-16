@@ -1,0 +1,104 @@
+  <thread>
+    <name>Deaf Community - Great Web Sites</name>
+    <listno>078-6832141</listno>
+    <DOC>
+      <Received>Thu Mar 07 23:20:36 -0800 2002</Received>
+      <From>goliver@accease.com &lt;goliver@accease.com&gt;</From>
+      <To>w3c-wai-ig@w3.org</To>
+      <Subject>Deaf Community - Great Web Sites</Subject>
+      <Text>
+        <Sent id="1.1"><Topic label=Sites liked by deaf community>Anyone know any web sites that are 'highly accessible to' and 'well liked by' the deaf community? </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Mar 08 03:55:34 -0800 2002</Received>
+      <From>Jonathan Chetwynd &lt;j.chetwynd@btinternet.com&gt;</From>
+      <To>&lt;goliver@accease.com&gt; , &lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>Re: Deaf Community - Great Web Sites</Subject>
+      <Text>
+        <Sent id="2.1"><Topic label=Sites liked by deaf community>one suggestion I've received is The Federation of Deaf People </Sent>
+        <Sent id="2.2"><Topic label=Sites liked by deaf community>http://www.fdp.org.uk/ </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Mar 08 06:25:55 -0800 2002</Received>
+      <From>Charles McCathieNevile &lt;charles@w3.org&gt;</From>
+      <To>Jonathan Chetwynd &lt;j.chetwynd@btinternet.com&gt;</To>
+      <Subject>Re: Deaf Community - Great Web Sites</Subject>
+      <Text>
+        <Sent id="3.1"><Topic label=Sites liked by deaf community>A suggestion I got is Elokuvantaju - CinemaSense </Sent>
+        <Sent id="3.2"><Topic label=Sites liked by deaf community>http://elokuvantaju.uiah.fi </Sent>
+        <Sent id="3.3"><Topic label=Sites liked by deaf community>It has sign language available, but only finnish sign language at the moment. </Sent>
+        <Sent id="3.6">&amp;gt; one suggestion I've received is The Federation of Deaf People </Sent>
+        <Sent id="3.7">&amp;gt; http://www.fdp.org.uk/ </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Mar 08 07:10:11 -0800 2002</Received>
+      <From>Emmanuelle Guti?rrez y Restrepo &lt;emmanuelle@teleline.es&gt;</From>
+      <To>&lt;goliver@accease.com&gt; , &lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>Re: Deaf Community - Great Web Sites</Subject>
+      <Text>
+        <Sent id="4.1"><Topic label=Sites liked by deaf community>Hi Graham, For the spanish people the site is: </Sent>
+        <Sent id="4.3"><Topic label=Sites liked by deaf community>http://www.planetavisual.org </Sent>
+        <Sent id="4.4"><Topic label=Sites liked by deaf community>And the site of the confederation is: </Sent>
+        <Sent id="4.5"><Topic label=Sites liked by deaf community>http://www.cnse.es </Sent>
+        <Sent id="4.8">&amp;gt; Anyone know any web sites that are 'highly accessible to' and 'well liked by' the deaf community? </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Mar 08 07:48:25 -0800 2002</Received>
+      <From>Graciela J. Caplan &lt;gcaplan@redespecialweb.org&gt;</From>
+      <To>w3c-wai-ig@w3.org</To>
+      <Subject>Re: Deaf Community - Great Web Sites</Subject>
+      <Text>
+        <Sent id="5.1"><Topic label=Sites liked by deaf community>Hi Graham, Other sites in Spanish: </Sent>
+        <Sent id="5.3"><Topic label=Sites liked by deaf community>http://www.edu.xunta.es/centros/sordos-co/ </Sent>
+        <Sent id="5.4"><Topic label=Sites liked by deaf community>http://www.vocesenelsilencio.org/ </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Mar 08 11:21:04 -0800 2002</Received>
+      <From>HARRIS Rachel D &lt;rachel.d.harris@co.multnomah.or.us&gt;</From>
+      <To>"'goliver@accease.com'" &lt;goliver@accease.com&gt; ,w3c-wai-ig@w3.org</To>
+      <Subject>RE: Deaf Community - Great Web Sites</Subject>
+      <Text>
+        <Sent id="6.1"><Topic label=Sites liked by deaf community>As a former therapist for Hearing and Deaf people, I know lots of people liked Deaf World Web. </Sent>
+        <Sent id="6.2"><Topic label=Sites liked by deaf community>Sadly to say that's discontinued now but they recommend http://dww.deafworldweb.org/asl/ </Sent>
+        <Sent id="6.3"><Topic label=Sites liked by deaf community>&amp;amp;lt;http://dww.deafworldweb.org/asl/&amp;amp;gt; </Sent>
+        <Sent id="6.15">&amp;gt; Anyone know any web sites that are 'highly accessible to' and 'well liked by' the deaf community? </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Mar 08 14:41:25 -0800 2002</Received>
+      <From>Jonathan Chetwynd &lt;j.chetwynd@btinternet.com&gt;</From>
+      <To>&lt;goliver@accease.com&gt; , &lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>Re: Deaf Community - Great Web Sites</Subject>
+      <Text>
+        <Sent id="7.1"><Topic label=Sites liked by deaf community>http://www.ctad.co.uk/basil/ has also been recommended </Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Sat Mar 09 03:44:28 -0800 2002</Received>
+      <From>Jonathan Chetwynd &lt;j.chetwynd@btinternet.com&gt;</From>
+      <To>&lt;goliver@accease.com&gt; , &lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>Re: Deaf Community - Great Web Sites</Subject>
+      <Text>
+        <Sent id="8.1"><Topic label=Sites liked by deaf community>other links include: </Sent>
+        <Sent id="8.2"><Topic label=Sites liked by deaf community>www.rnid.org.uk </Sent>
+        <Sent id="8.3"><Topic label=Sites liked by deaf community>www.britishdeafassociation.org.uk </Sent>
+        <Sent id="8.4"><Topic label=Sites liked by deaf community>www.deafchristian.org.uk </Sent>
+        <Sent id="8.5"><Topic label=Sites liked by deaf community>www.hearing-dogs.co.uk </Sent>
+        <Sent id="8.6"><Topic label=Sites liked by deaf community>www.royaldeaf.org.uk/links.htm </Sent>
+        <Sent id="8.7"><Topic label=Sites liked by deaf community>www.signcommunique.com </Sent>
+        <Sent id="8.8"><Topic label=Sites liked by deaf community>www.yagc.demon.co.uk/Deaf/Deaf.html </Sent>
+        <Sent id="8.9"><Topic label=Sites liked by deaf community>www.breakthrough-dhi.org.uk </Sent>
+        <Sent id="8.10"><Topic label=Sites liked by deaf community>www.deafclub.co.uk </Sent>
+        <Sent id="8.11"><Topic label=Sites liked by deaf community>www.bris.ac.uk/Depts/DeafStudies/links.htm </Sent>
+        <Sent id="8.12"><Topic label=Sites liked by deaf community>www.linkcentre.org </Sent>
+        <Sent id="8.13"><Topic label=Sites liked by deaf community>www.deafclub.co.uk/deafbooks </Sent>
+        <Sent id="8.14"><Topic label=Sites liked by deaf community>www.forestbooks.com </Sent>
+      </Text>
+    </DOC>
+  </thread>
+

@@ -1,0 +1,81 @@
+  <thread>
+    <name>Extending IETF meetings to two weeks?</name>
+    <listno>007-7484738</listno>
+    <DOC>
+      <Received>Tue Dec 08 07:30:52 -0800 1998</Received>
+      <From>Jacob Palme &lt;jpalme@dsv.su.se&gt;</From>
+      <To>discuss@apps.ietf.org</To>
+      <Subject>Extending IETF meetings to two weeks?</Subject>
+      <Text>
+        <Sent id="1.1"> <Topic label=Extending meeting duration to two weeks>The IETF meetings tend to become too large, creating logistics and planning problems. </Sent>
+        <Sent id="1.2"> <Topic label=Extending meeting duration to two weeks>I suggest that future meetings are held for two weeks, with applications and user services issues the first week, and all other issues the second week. </Sent>
+        <Sent id="1.3"> <Topic label=Extending meeting duration to two weeks>Those who so wish could attend both weeks, and other people could attend only one week. </Sent>
+        <Sent id="1.4"> <Topic label=Extending meeting duration to two weeks>Those who choose to attend both weeks would be able to cover more groups and do better liaisons between the different areas. </Sent>
+        <Sent id="1.5"> <Topic label=Better Scheduling of meeting>The Friday of the first week could discuss applications issues which might be of special interest to the other areas, and the Monday of the second week would schedule other groups which might be of special interest to applications people, so some people could attend Monday-Monday or Friday-Friday. 
+</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Dec 09 20:21:11 -0800 1998</Received>
+      <From>Terry Allen &lt;tallen@sonic.net&gt;</From>
+      <To>discuss@apps.ietf.org,jpalme@dsv.su.se</To>
+      <Subject>Re: Extending IETF meetings to two weeks?</Subject>
+      <Text>
+        <Sent id="2.1"> <Topic label=Extending meeting duration to two weeks>&gt; The IETF meetings tend to become too large, creating logistics and planning problems. ... 
+</Sent>
+        <Sent id="2.2"> <Topic label=Better Scheduling of meeting>My problem over the past year or so is that there are only a few session I wish to attend, but I cannot know for sure when they will be scheduled, so I cannot make reasonable travel arrangements (a week in Orlando for 6 hours of meetings is hard to sell to management). </Sent>
+        <Sent id="2.3"> <Topic label=Better Scheduling of meeting>Now I know there is a rationale here, and that one is encouraged to participate broadly. </Sent>
+        <Sent id="2.4"> <Topic label=Better Scheduling of meeting>And I am hopeful that new activities (my own and in the IETF) will give me many more reasons to attend. 
+</Sent>
+        <Sent id="2.5"> <Topic label=Better Scheduling of meeting>But firmer scheduling would be a big win. 
+</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Thu Dec 10 07:09:32 -0800 1998</Received>
+      <From>Brian E Carpenter &lt;brian@hursley.ibm.com&gt;</From>
+      <To>Terry Allen &lt;tallen@sonic.net&gt;</To>
+      <Subject>Re: Extending IETF meetings to two weeks?</Subject>
+      <Text>
+        <Sent id="3.2"> <Topic label=Better Scheduling of meeting>Terry, WG Chairs already are asked to specify which clashes they want to avoid, but clash avoidance is an iterative problem. </Sent>
+        <Sent id="3.3"> <Topic label=Better Scheduling of meeting>I just don't see how late changes can be completely avoided. </Sent>
+        <Sent id="3.4"> <Topic label=Better Scheduling of meeting>Obviously, everybody knows they need to be minimised. 
+</Sent>
+        <Sent id="3.6"> <Topic label=Extending meeting duration to two weeks>Jacob, No way. </Sent>
+        <Sent id="3.7"> <Topic label=Extending meeting duration to two weeks>Taking one week out of our calendars 3 times a year is already very painful, and a lot of people really do need and want to track multiple areas of the IETF. </Sent>
+        <Sent id="3.8"> <Topic label=Extending meeting duration to two weeks>Spreading it thinner would be awful. 
+</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Thu Dec 10 11:55:56 -0800 1998</Received>
+      <From>Larry Masinter &lt;masinter@parc.xerox.com&gt;</From>
+      <To>&lt;agenda@ietf.org&gt; , &lt;discuss@apps.ietf.org&gt;</To>
+      <Subject>create 'final' IETF agenda schedule earlier?</Subject>
+      <Text>
+        <Sent id="4.1"> <Topic label=Better Scheduling of meeting>Working groups don't seem to decide at the last minute whether or not they need a meeting, or what their conflict avoidance criteria needs to be. </Sent>
+        <Sent id="4.2"> <Topic label=Better Scheduling of meeting>This leads me to believe that we could create the IETF schedule earlier without causing significant pain. 
+</Sent>
+        <Sent id="4.3"> <Topic label=Better Scheduling of meeting>For example, it would be very useful so that the final WG schedule was available more than 21 days in advance, in order to get advanced purchase tickets. </Sent>
+        <Sent id="4.4"> <Topic label=Better Scheduling of meeting>This would mean that the apps area schedule should be set tentatively 30-35 days in advance, so that the draft IETF schedule could be published and conflicts reviewed. 
+</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Dec 11 16:02:06 -0800 1998</Received>
+      <From>Richard Shockey &lt;rshockey@ix.netcom.com&gt;</From>
+      <To>discuss@apps.ietf.org</To>
+      <Subject>Re: create 'final' IETF agenda schedule earlier?</Subject>
+      <Text>
+        <Sent id="5.1"> <Topic label=Better Scheduling of meeting>&gt; For example, it would be very useful so that the final WG schedule was available more than 21 days in advance, in order to get advanced purchase tickets. </Sent>
+        <Sent id="5.2"> <Topic label=Better Scheduling of meeting>&gt; This would mean that the apps area schedule should be set tentatively 30-35 days in advance, so that the draft IETF schedule could be published and conflicts reviewed. 
+</Sent>
+        <Sent id="5.3"> <Topic label=Better Scheduling of meeting>I'd like to second this notion. </Sent>
+        <Sent id="5.4"> <Topic label=Better Scheduling of meeting>Many folks in smaller companies are under severe budget constraints and have difficulty justifying participation in IETF meetings. </Sent>
+        <Sent id="5.5"> <Topic label=Better Scheduling of meeting>The advance notice helps reduce travel costs, which in turn helps more people attend. 
+</Sent>
+        <Sent id="5.6"> <Topic label=Better Scheduling of meeting>It would make my life easier. 
+</Sent>
+      </Text>
+    </DOC>
+  </thread>
